@@ -1,0 +1,5 @@
+scenario,excluded_codes,total_high_risk_pct,total_denom_M,total_excluded_emp_M,male_high_risk_pct,male_denom_M,male_excluded_emp_M,female_high_risk_pct,female_denom_M,female_excluded_emp_M
+baseline,,58.316,75.7098,0,54.382,58.3585,0,71.547,17.3513,0
+exclude_6130,6130,50.585,63.8652,11.8446,48.297,51.4905,6.868,60.104,12.3747,4.9766
+exclude_6130_6121,"6121,6130",46.777,59.296,16.4138,47.089,50.315,8.0435,45.028,8.981,8.3703
+exclude_all_5_ag_codes,"6121,6130,8341,9211,9213",43.248,55.6089,20.1009,44.307,47.8015,10.557,36.765,7.8074,9.5439

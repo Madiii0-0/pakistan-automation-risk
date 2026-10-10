@@ -1,0 +1,44 @@
+isco_2digit,title,employment_millions,range_2digit_before,range_2digit_after,wmean_range_4digit_after
+01,Commissioned Armed forces Officers,0,,,
+02,Non-commissioned Armed Forces Officers,0,,,
+03,"Armed Forces Occupations, Other Ranks",0,,,
+11,"Chief Executives, Senior Officials and Legislators",0.1347,0.247,0.012,0.0071
+12,Administrative and Commercial Managers,0.18,0.9545,0.9545,0.1458
+13,Production and Specialized Services Managers,0.7041,0.5854,0.5854,0.0008
+14,"Hospitality, Retail and Other Services Managers",0.1578,0.2461,0.0871,0.0
+21,Science and Engineering Professionals,0.1487,0.8755,0.8755,0.0602
+22,Health Professionals,0.1439,0.1672,0.1672,0.0076
+23,Teaching Professionals,2.8974,0.2558,0.2558,0.0771
+24,Business and Administration Professionals,0.2652,0.9859,0.9859,0.136
+25,Information and Communications Technology Professionals,0.1019,0.4735,0.4735,0.06
+26,"Legal, Social and Cultural Professionals",0.5939,0.8869,0.8869,0.0492
+31,Science and Engineering Associate Professionals,0.431,0.9664,0.9664,0.3017
+32,Health Associate Professionals,0.7671,0.9665,0.9665,0.1377
+33,Business and Administration Associate Professionals,1.5954,0.9856,0.9856,0.42
+34,"Legal, Social, Cultural and Related Associate Professionals",0.1982,0.9845,0.9845,0.3733
+35,Information and Communications Technicians,0.1223,0.95,0.95,0.1758
+41,General and Keyboard Clerks,0.7679,0.18,0.18,0.0149
+42,Customer Services Clerks,0.371,0.905,0.881,0.0792
+43,Numerical and Material Recording Clerks,0.1792,0.35,0.35,0.1403
+44,Other Clerical Support Workers,0.0415,0.914,0.31,0.2175
+51,Personal Service Workers,2.0319,0.9639,0.9639,0.3877
+52,Sales Workers,3.3838,0.961,0.71,0.0461
+53,Personal Care Workers,0.0336,0.704,0.696,0.2087
+54,Protective Services Workers,1.2843,0.9464,0.9464,0.3587
+61,Market-oriented Skilled Agricultural Workers,16.6985,0.38,0.38,0.0019
+62,"Market-Oriented Skilled Forestry, Fishery and Hunting Workers",0.1517,0.4,0.21,0.0905
+63,"Subsistence Farmers, Fishers, Hunters and Gatherers",0.0,0.06,0.06,
+71,Building and Related Trades Workers (excluding Electricians),1.9622,0.937,0.869,0.0612
+72,"Metal, Machinery and Related Trades Workers",1.9427,0.977,0.62,0.2904
+73,Handicraft and Printing Workers,0.5595,0.987,0.955,0.0745
+74,Electrical and Electronics Trades Workers,1.1085,0.927,0.833,0.4245
+75,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",4.9855,0.9851,0.9851,0.1162
+81,Stationary Plant and Machine Operators,1.9081,0.62,0.62,0.122
+82,Assemblers,0.0466,0.25,0.25,0.1871
+83,Drivers and Mobile Plant Operators,4.32,0.951,0.73,0.3043
+91,Cleaners and Helpers,1.4225,0.46,0.46,0.1281
+92,"Agricultural, Forestry and Fishery Labourers",3.9332,0.12,0.12,0.0
+93,"Labourers in Mining, Construction, Manufacturing and Transport",7.3124,0.874,0.874,0.361
+94,Food Preparation Assistants,0.1224,0.17,0.17,0.1306
+95,Street and Related Sales and Service Workers,0.3637,0.0,0.0,0.0
+96,Refuse Workers and Other Elementary Workers,0.43,0.941,0.54,0.1022

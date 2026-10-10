@@ -1,0 +1,437 @@
+psco_4digit,psco_title,isco_title,match_status
+0110,Commissioned armed forces officers,Commissioned Armed Forces Officers,normalized_match
+0210,Non-commissioned armed forces officers,Non-commissioned Armed Forces Officers,normalized_match
+0310,"Armed forces occupations, other ranks","Armed Forces Occupations, Other Ranks",normalized_match
+1111,Legislators,Legislators,exact_match
+1112,Senior government officials,Senior Government Officials,normalized_match
+1113,Traditional chiefs and heads of village,Traditional Chiefs and Heads of Villages,title_mismatch
+1114,Senior officials of special-interest organizations,Senior Officials of Special-interest Organizations,normalized_match
+1120,Managing directors and chief executives,Managing Directors and Chief Executives,normalized_match
+1211,Finance managers,Finance Managers,normalized_match
+1212,Human resource managers,Human Resource Managers,normalized_match
+1213,Policy and planning managers,Policy and Planning Managers,normalized_match
+1219,Business services and administration managers not elsewhere classified,Business Services and Administration Managers Not Elsewhere Classified,normalized_match
+1221,Sales and marketing managers,Sales and Marketing Managers,normalized_match
+1222,Advertising and public relations managers,Advertising and Public Relations Managers,normalized_match
+1223,Research and development managers,Research and Development Managers,normalized_match
+1311,Agricultural and forestry production managers,Agricultural and Forestry Production Managers,normalized_match
+1312,Aquaculture and fisheries production managers,Aquaculture and Fisheries Production Managers,normalized_match
+1321,Manufacturing managers,Manufacturing Managers,normalized_match
+1322,Mining managers,Mining Managers,normalized_match
+1323,Construction managers,Construction Managers,normalized_match
+1324,"Supply, distribution and related managers","Supply, Distribution and Related Managers",normalized_match
+1330,Information and communications technology service managers,Information and Communications Technology Service Managers,normalized_match
+1341,Child care services managers,Child Care Service Managers,title_mismatch
+1342,Health services managers,Health Service Managers,title_mismatch
+1343,Aged care services managers,Aged Care Service Managers,title_mismatch
+1344,Social welfare managers,Social Welfare Managers,normalized_match
+1345,Education managers,Education Managers,normalized_match
+1346,Financial and insurance services branch managers,Financial and Insurance Services Branch managers,normalized_match
+1349,Professional services managers not elsewhere classified,Professional Services Managers Not Elsewhere Classified,normalized_match
+1411,Hotel managers,Hotel Managers,normalized_match
+1412,Restaurant managers,Restaurant Managers,normalized_match
+1420,Retail and wholesale trade managers,Retail and Wholesale Trade Managers,normalized_match
+1431,"Sports, recreation and cultural centre managers","Sports, Recreation and Cultural Centre Managers",normalized_match
+1439,Services managers not elsewhere classified,Services Managers Not Elsewhere Classified,normalized_match
+2111,Physicists and astronomers,Physicists and Astronomers,normalized_match
+2112,Meteorologists,Meteorologists,exact_match
+2113,Chemists,Chemists,exact_match
+2114,Geologists and geophysicists,Geologists and geophysicists,exact_match
+2120,"Mathematicians, actuaries and statisticians","Mathematicians, Actuaries and Statisticians",normalized_match
+2131,"Biologists, botanists, zoologists and related professionals","Biologists, Botanists, Zoologists and Related Professionals",normalized_match
+2132,"Farming, forestry and fisheries advisers","Farming, Forestry and Fisheries Advisers",normalized_match
+2133,Environmental protection professionals,Environmental Protection Professionals,normalized_match
+2141,Industrial and production engineers,Industrial and Production Engineers,normalized_match
+2142,Civil engineers,Civil Engineers,normalized_match
+2143,Environmental engineers,Environmental Engineers,normalized_match
+2144,Mechanical engineers,Mechanical Engineers,normalized_match
+2145,Chemical engineers,Chemical Engineers,normalized_match
+2146,"Mining engineers, metallurgists and related professionals","Mining Engineers, Metallurgists and Related Professionals",normalized_match
+2149,Engineering professionals not elsewhere classified,Engineering Professionals Not Elsewhere Classified,normalized_match
+2151,Electrical engineers,Electrical Engineers,normalized_match
+2152,Electronics engineers,Electronics Engineers,normalized_match
+2153,Telecommunications engineers,Telecommunications Engineers,normalized_match
+2161,Building architects,Building Architects,normalized_match
+2162,Landscape architects,Landscape Architects,normalized_match
+2163,Product and garment designers,Product and Garment Designers,normalized_match
+2164,Town and traffic planners,Town and Traffic Planners,normalized_match
+2165,Cartographers and surveyors,Cartographers and Surveyors,normalized_match
+2166,Graphic and multimedia designers,Graphic and Multimedia Designers,normalized_match
+2211,Generalist medical practitioners,Generalist Medical Practitioners,normalized_match
+2212,Specialist medical practitioners,Specialist Medical Practitioners,normalized_match
+2221,Nursing professionals,Nursing Professionals,normalized_match
+2222,Midwifery professionals,Midwifery Professionals,normalized_match
+2230,Traditional and complementary medicine professionals,Traditional and Complementary Medicine Professionals,normalized_match
+2240,Paramedical practitioners,Paramedical Practitioners,normalized_match
+2250,Veterinarians,Veterinarians,exact_match
+2261,Dentists,Dentists,exact_match
+2262,Pharmacists,Pharmacists,exact_match
+2263,Environmental and occupational health and hygiene professionals,Environmental and Occupational Health and Hygiene Professionals,normalized_match
+2264,Physiotherapists,Physiotherapists,exact_match
+2265,Dieticians and nutritionists,Dieticians and Nutritionists,normalized_match
+2266,Audiologists and speech therapists,Audiologists and Speech Therapists,normalized_match
+2267,Optometrists and ophthalmic opticians,Optometrists and Ophthalmic Opticians,normalized_match
+2269,Health professionals not elsewhere classified,Health Professionals Not Elsewhere Classified,normalized_match
+2310,University and higher education teachers,University and Higher Education Teachers,normalized_match
+2320,Vocational education teachers,Vocational Education Teachers,normalized_match
+2330,Secondary education teachers,Secondary Education Teachers,normalized_match
+2341,Primary school teachers,Primary School Teachers,normalized_match
+2342,Early childhood educators,Early Childhood Educators,normalized_match
+2351,Education methods specialists,Education Methods Specialists,normalized_match
+2352,Special needs teachers,Special Needs Teachers,normalized_match
+2353,Other language teachers,Other Language Teachers,normalized_match
+2354,Other music teachers,Other Music Teachers,normalized_match
+2355,Other arts teachers,Other Arts Teachers,normalized_match
+2356,Information technology trainers,Information Technology Trainers,normalized_match
+2359,Teaching professionals not elsewhere classified,Teaching Professionals Not Elsewhere Classified,normalized_match
+2411,Accountants,Accountants,exact_match
+2412,Financial and investment advisers,Financial and Investment Advisers,normalized_match
+2413,Financial analysts,Financial Analysts,normalized_match
+2421,Management and organization analysts,Management and Organization Analysts,normalized_match
+2422,Policy administration professionals,Policy Administration Professionals,normalized_match
+2423,Personnel and careers professionals,Personnel and Careers Professionals,normalized_match
+2424,Training and staff development professionals,Training and Staff Development Professionals,normalized_match
+2431,Advertising and marketing professionals,Advertising and Marketing Professionals,normalized_match
+2432,Public relations professionals,Public Relations Professionals,normalized_match
+2433,Technical and medical sales professionals (excluding ICT),Technical and Medical Sales Professionals (excluding ICT),normalized_match
+2434,Information and communications technology sales professionals,Information and Communications Technology Sales Professionals,normalized_match
+2511,Systems analysts,Systems Analysts,normalized_match
+2512,Software developers,Software Developers,normalized_match
+2513,Web and multimedia developers,Web and Multimedia Developers,normalized_match
+2514,Applications programmers,Applications Programmers,normalized_match
+2519,Software and applications developers and analysts not elsewhere classified,Software and Applications Developers and Analysts Not Elsewhere Classified,normalized_match
+2521,Database designers and administrators,Database Designers and Administrators,normalized_match
+2522,Systems administrators,Systems Aministrators,title_mismatch
+2523,Computer network professionals,Computer Network Professionals,normalized_match
+2529,Database and network professionals not elsewhere classified,Database and Network Professionals Not Elsewhere Classified,normalized_match
+2611,Lawyers,Lawyers,exact_match
+2612,Judges,Judges,exact_match
+2619,Legal professionals not elsewhere classified,Legal Professionals Not Elsewhere Classified,normalized_match
+2621,Archivists and curators,Archivists and Curators,normalized_match
+2622,Librarians and related information professionals,Librarians and Related Information Professionals,normalized_match
+2631,Economists,Economists,exact_match
+2632,"Sociologists, anthropologists and related professionals","Sociologists, Anthropologists and Related Professionals",normalized_match
+2633,"Philosophers, historians and political scientists","Philosophers, Historians and Political Scientists",normalized_match
+2634,Psychologists,Psychologists,exact_match
+2635,Social work and counseling professionals,Social Work and Counselling Professionals,title_mismatch
+2636,Religious professionals,Religious Professionals,normalized_match
+2641,Authors and related writers,Authors and Related Writers,normalized_match
+2642,Journalists,Journalists,exact_match
+2643,"Translators, interpreters and other linguists","Translators, Interpreters and Other Linguists",normalized_match
+2651,Visual artists,Visual Artists,normalized_match
+2652,"Musicians, singers and composers","Musicians, Singers and Composers",normalized_match
+2653,Dancers and choreographers,Dancers and Choreographers,normalized_match
+2654,"Film, stage and related directors and producers","Film, Stage and Related Directors and Producers",normalized_match
+2655,Actors,Actors,exact_match
+2656,"Announcers on radio, television and other media","Announcers on Radio, Television and Other Media",normalized_match
+2659,Creative and performing artists not elsewhere classified,Creative and Performing Artists Not Elsewhere Classified,normalized_match
+3111,Chemical and physical science technicians,Chemical and Physical Science Technicians,normalized_match
+3112,Civil engineering technicians,Civil Engineering Technicians,normalized_match
+3113,Electrical engineering technicians,Electrical Engineering Technicians,normalized_match
+3114,Electronics engineering technicians,Electronics Engineering Technicians,normalized_match
+3115,Mechanical engineering technicians,Mechanical Engineering Technicians,normalized_match
+3116,Chemical engineering technicians,Chemical Engineering Technicians,normalized_match
+3117,Mining and metallurgical technicians,Mining and metallurgical technicians,exact_match
+3118,Draughts persons,Draughtspersons,title_mismatch
+3119,Physical and engineering science technicians not elsewhere classified,Physical and Engineering Science Technicians Not Elsewhere Classified,normalized_match
+3121,Mining supervisors,Mining Supervisors,normalized_match
+3122,Manufacturing supervisors,Manufacturing Supervisors,normalized_match
+3123,Construction supervisors,Construction Supervisors,normalized_match
+3131,Power production plant operators,Power Production Plant Operators,normalized_match
+3132,Incinerator and water treatment plant operators,Incinerator and Water Treatment Plant Operators,normalized_match
+3133,Chemical processing plant controllers,Chemical Processing Plant Controllers,normalized_match
+3134,Petroleum and natural gas refining plant operators,Petroleum and Natural Gas Refining Plant Operators,normalized_match
+3135,Metal production process controllers,Metal Production Process Controllers,normalized_match
+3139,Process control technicians not elsewhere classified,Process Control Technicians Not Elsewhere Classified,normalized_match
+3141,Life science technicians (excluding medical),Life Science Technicians (excluding Medical),normalized_match
+3142,Agricultural technicians,Agricultural Technicians,normalized_match
+3143,Forestry technicians,Forestry Technicians,normalized_match
+3151,Ships' engineers,Ships' Engineers,normalized_match
+3152,Ships' deck officers and pilots,Ships' Deck Officers and Pilots,normalized_match
+3153,Aircraft pilots and related associate professionals,Aircraft Pilots and Related Associate Professionals,normalized_match
+3154,Air traffic controllers,Air Traffic Controllers,normalized_match
+3155,Air traffic safety electronics technicians,Air Traffic Safety Electronics Technicians,normalized_match
+3211,Medical imaging and therapeutic equipment technicians,Medical Imaging and Therapeutic Equipment Technicians,normalized_match
+3212,Medical and pathology laboratory technicians,Medical and Pathology Laboratory Technicians,normalized_match
+3213,Pharmaceutical technicians and assistants,Pharmaceutical Technicians and Assistants,normalized_match
+3214,Medical and dental prosthetic technicians,Medical and Dental Prosthetic Technicians,normalized_match
+3221,Nursing associate professionals,Nursing Associate Professionals,normalized_match
+3222,Midwifery associate professionals,Midwifery Associate Professionals,normalized_match
+3230,Traditional and complementary medicine associate professionals,Traditional and Complementary Medicine Associate Professionals,normalized_match
+3240,Veterinary technicians and assistants,Veterinary Technicians and Assistants,normalized_match
+3251,Dental assistants and therapists,Dental Assistants and Therapists,normalized_match
+3252,Medical records and health information technicians,Medical Records and Health Information Technicians,normalized_match
+3253,Community health workers,Community Health Workers,normalized_match
+3254,Dispensing opticians,Dispensing Opticians,normalized_match
+3255,Physiotherapy technicians and assistants,Physiotherapy Technicians and Assistants,normalized_match
+3256,Medical assistants,Medical Assistants,normalized_match
+3257,Environmental and occupational health inspectors and associates,Environmental and Occupational Health Inspectors and Associates,normalized_match
+3258,Ambulance workers,Ambulance Workers,normalized_match
+3259,Health associate professionals not elsewhere classified,Health Associate Professionals Not Elsewhere Classified,normalized_match
+3311,Securities and finance dealers and brokers,Securities and Finance Dealers and Brokers,normalized_match
+3312,Credit and loans officers,Credit and Loans Officers,normalized_match
+3313,Accounting associate professionals,Accounting Associate Professionals,normalized_match
+3314,"Statistical, mathematical and related associate professionals","Statistical, Mathematical and Related Associate Professionals",normalized_match
+3315,Valuers and loss assessors,Valuers and Loss Assessors,normalized_match
+3321,Insurance representatives,Insurance Representatives,normalized_match
+3322,Commercial sales representatives,Commercial Sales Representatives,normalized_match
+3323,Buyers,Buyers,exact_match
+3324,Trade brokers,Trade Brokers,normalized_match
+3331,Clearing and forwarding agents,Clearing and Forwarding Aents,title_mismatch
+3332,Conference and event planners,Conference and Event Planners,normalized_match
+3333,Employment agents and contractors,Employment agents and contractors,exact_match
+3334,Real estate agents and property managers,Real Estate Agents and Property Managers,normalized_match
+3339,Business services agents not elsewhere classified,Business Services Agents Not Elsewhere Classified,normalized_match
+3341,Office supervisors,Office Supervisors,normalized_match
+3342,Legal secretaries,Legal Secretaries,normalized_match
+3343,Administrative and executive secretaries,Administrative and Executive Secretaries,normalized_match
+3344,Medical secretaries,Medical Secretaries,normalized_match
+3351,Customs and border inspectors,Customs and Border Inspectors,normalized_match
+3352,Government tax and excise officials,Government Tax and Excise Officials,normalized_match
+3353,Government social benefits officials,Government Social Benefits Officials,normalized_match
+3354,Government licensing officials,Government Licensing Officials,normalized_match
+3355,Police inspectors and detectives,Police Inspectors and Detectives,normalized_match
+3359,Regulatory government associate professionals not elsewhere classified,Government Regulatory AssociatePprofessionals Not Elsewhere Classified,title_mismatch
+3411,Police inspectors and detectives,Legal and Related Associate Professionals,title_mismatch
+3412,Social work associate professionals,Social Work Associate Professionals,normalized_match
+3413,Religious associate professionals,Religious Associate Professionals,normalized_match
+3421,Athletes and sports players,Athletes and Sports Players,normalized_match
+3422,"Sports coaches, instructors and officials","Sports Coaches, Instructors and Officials",normalized_match
+3423,Fitness and recreation instructors and program leaders,Fitness and Recreation Instructors and Programme Leaders,title_mismatch
+3431,Photographers,Photographers,exact_match
+3432,Interior designers and decorators,Interior Designers and Decorators,normalized_match
+3433,"Gallery, museum and library technicians","Gallery, Museum and Library Technicians",normalized_match
+3434,Chefs,Chefs,exact_match
+3435,Other artistic and cultural associate professionals,Other Artistic and Cultural Associate Professionals,normalized_match
+3511,Information and communications technology operations technicians,Information and Communications Technology Operations Technicians,normalized_match
+3512,Information and communications technology user support technicians,Information and Communications Technology User Support Technicians,normalized_match
+3513,Computer network and systems technicians,Computer Network and Systems Technicians,normalized_match
+3514,Web technicians,Web Technicians,normalized_match
+3521,Broadcasting and audio-visual technicians,Broadcasting and Audio-visual Technicians,normalized_match
+3522,Telecommunications engineering technicians,Telecommunications Engineering Technicians,normalized_match
+4110,General office clerks,General Office Clerks,normalized_match
+4120,Secretaries (general),Secretaries (general),exact_match
+4131,Typists and word processing operators,Typists and Word Processing Operators,normalized_match
+4132,Data entry clerks,Data Entry Clerks,normalized_match
+4211,Bank tellers and related clerks,Bank Tellers and Related Clerks,normalized_match
+4212,"Bookmakers, croupiers and related gaming workers","Bookmakers, Croupiers and Related Gaming Workers",normalized_match
+4213,Pawnbrokers and money-lenders,Pawnbrokers and Money-lenders,normalized_match
+4214,Debt-collectors and related workers,Debt Collectors and Related Workers,normalized_match
+4221,Travel consultants and clerks,Travel Consultants and Clerks,normalized_match
+4222,Contact centre information clerks,Contact Centre Information Clerks,normalized_match
+4223,Telephone switchboard operators,Telephone Switchboard Operators,normalized_match
+4224,Hotel receptionists,Hotel Receptionists,normalized_match
+4225,Enquiry clerks,Inquiry Clerks,title_mismatch
+4226,Receptionists (general),Receptionists (general),exact_match
+4227,Survey and market research interviewers,Survey and Market Research Interviewers,normalized_match
+4229,Client information workers not elsewhere classified,Client Information Workers Not Elsewhere Classified,normalized_match
+4311,Accounting and bookkeeping clerks,Accounting and Bookkeeping Clerks,normalized_match
+4312,"Statistical, finance and insurance clerks","Statistical, Finance and Insurance Clerks",normalized_match
+4313,Payroll clerks,Payroll Clerks,normalized_match
+4321,Stock clerks,Stock Clerks,normalized_match
+4322,Production clerks,Production Clerks,normalized_match
+4323,Transport clerks,Transport Clerks,normalized_match
+4411,Library clerks,Library Clerks,normalized_match
+4412,Mail carriers and sorting clerks,Mail Carriers and Sorting Clerks,normalized_match
+4413,"Coding, proof-reading and related clerks","Coding, Proofreading and Related Clerks",title_mismatch
+4414,Scribes and related workers,Scribes and Related Workers,normalized_match
+4415,Filing and copying clerks,Filing and Copying Clerks,normalized_match
+4416,Personnel clerks,Personnel Clerks,normalized_match
+4419,Clerical support workers not elsewhere classified,Clerical Support Workers Not Elsewhere Classified,normalized_match
+5111,Travel attendants and travel stewards,Travel Attendants and Travel Stewards,normalized_match
+5112,Transport conductors,Transport Conductors,normalized_match
+5113,Travel guides,Travel Guides,normalized_match
+5120,Cooks,Cooks,exact_match
+5131,Waiters,Waiters,exact_match
+5132,Bartenders,Bartenders,exact_match
+5141,Hairdressers,Hairdressers,exact_match
+5142,Beauticians and related workers,Beauticians and Related Workers,normalized_match
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments","Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments",normalized_match
+5152,Domestic housekeepers,Domestic Housekeepers,normalized_match
+5153,Building caretakers,Building Caretakers,normalized_match
+5161,"Astrologers, fortune-tellers and related workers","Astrologers, Fortune-tellers and Related Workers",normalized_match
+5162,Companions and valets,Companions and Valets,normalized_match
+5163,Undertakers and embalmers,Undertakers and Embalmers,normalized_match
+5164,Pet groomers and animal care workers,Pet Groomers and Animal Care Workers,normalized_match
+5165,Driving instructors,Driving Instructors,normalized_match
+5169,Personal services workers not elsewhere classified,Personal Services Workers Not Elsewhere Classified,normalized_match
+5211,Stall and market salespersons,Stall and Market Salespersons,normalized_match
+5212,Street food salespersons,Street Food Salespersons,normalized_match
+5221,Shop keepers,Shopkeepers,title_mismatch
+5222,Shop supervisors,Shop Supervisors,normalized_match
+5223,Shop sales assistants,Shop Sales Assistants,normalized_match
+5230,Cashiers and ticket clerks,Cashiers and Ticket Clerks,normalized_match
+5241,Fashion and other models,Fashion and Other Models,normalized_match
+5242,Sales demonstrators,Sales Demonstrators,normalized_match
+5243,Door to door salespersons,Door-to-door Salespersons,normalized_match
+5244,Contact centre salespersons,Contact Centre Salespersons,normalized_match
+5245,Service station attendants,Service Station Attendants,normalized_match
+5246,Food service counter attendants,Food Service Counter Attendants,normalized_match
+5249,Sales workers not elsewhere classified,Sales Workers Not Elsewhere Classified,normalized_match
+5311,Child care workers,Child Care Workers,normalized_match
+5312,Teachers' aides,Teachers' Aides,normalized_match
+5321,Health care assistants,Health Care Assistants,normalized_match
+5322,Home-based personal care workers,Home-based Personal Care Workers,normalized_match
+5329,Personal care workers in health services not elsewhere classified,Personal Care Workers in Health Services Not Elsewhere Classified,normalized_match
+5411,Fire-fighters,Fire Fighters,normalized_match
+5412,Police officers,Police Officers,normalized_match
+5413,Prison guards,Prison Guards,normalized_match
+5414,Security guards,Security Guards,normalized_match
+5419,Protective services workers not elsewhere classified,Protective Services Workers Not Elsewhere Classified,normalized_match
+6111,Field crop and vegetable growers,Field Crop and Vegetable Growers,normalized_match
+6112,Tree and shrub crop growers,Tree and Shrub Crop Growers,normalized_match
+6113,"Gardeners, horticultural and nursery growers","Gardeners, Horticultural and Nursery Growers",normalized_match
+6114,Mixed crop growers,Mixed Crop Growers,normalized_match
+6121,Livestock and dairy producers,Livestock and Dairy Producers,normalized_match
+6122,Poultry producers,Poultry Producers,normalized_match
+6123,Apiarists and sericulturists,Apiarists and Sericulturists,normalized_match
+6129,Animal producers not elsewhere classified,Animal Producers Not Elsewhere Classified,normalized_match
+6130,Mixed crop and animal producers,Mixed Crop and Animal Producers,normalized_match
+6210,Forestry and related workers,Forestry and Related Workers,normalized_match
+6221,Aquaculture workers,Aquaculture Workers,normalized_match
+6222,Inland and coastal waters fishery workers,Inland and Coastal Waters Fishery Workers,normalized_match
+6223,Deep-sea fishery workers,Deep-sea Fishery Workers,normalized_match
+6224,Hunters and trappers,Hunters and Trappers,normalized_match
+6310,Subsistence crop farmers,Subsistence Crop Farmers,normalized_match
+6320,Subsistence livestock farmers,Subsistence Livestock Farmers,normalized_match
+6330,Subsistence mixed crop and livestock farmers,Subsistence Mixed Crop and Livestock Farmers,normalized_match
+6340,"Subsistence fishers, hunters, trappers and gatherers","Subsistence Fishers, Hunters, Trappers and Gatherers",normalized_match
+7111,House builders,House Builders,normalized_match
+7112,Bricklayers and related workers,Bricklayers and Related Workers,normalized_match
+7113,"Stonemasons, stone cutters, splitters and carvers","Stonemasons, Stone Cutters, Splitters and Carvers",normalized_match
+7114,"Concrete placers, concrete finishers and related workers","Concrete Placers, Concrete Finishers and Related Workers",normalized_match
+7115,Carpenters and joiners,Carpenters and Joiners,normalized_match
+7119,Building frame and related trades workers not elsewhere classified,Building Frame and Related Trades Workers Not Elsewhere Classified,normalized_match
+7121,Roofers,Roofers,exact_match
+7122,Floor layers and tile setters,Floor Layers and Tile Setters,normalized_match
+7123,Plasterers,Plasterers,exact_match
+7124,Insulation workers,Insulation Workers,normalized_match
+7125,Glaziers,Glaziers,exact_match
+7126,Plumbers and pipe fitters,Plumbers and Pipe Fitters,normalized_match
+7127,Air conditioning and refrigeration mechanics,Air Conditioning and Refrigeration Mechanics,normalized_match
+7131,Painters and related workers,Painters and Related Workers,normalized_match
+7132,Spray painters and varnishers,Spray Painters and Varnishers,normalized_match
+7133,Building structure cleaners,Building Structure Cleaners,normalized_match
+7211,Metal moulders and core makers,Metal Moulders and Coremakers,title_mismatch
+7212,Welders and flame cutters,Welders and Flame Cutters,normalized_match
+7213,Sheet-metal workers,Sheet Metal Workers,normalized_match
+7214,Structural-metal preparers and erectors,Structural Metal Preparers and Erectors,normalized_match
+7215,Riggers and cable splicers,Riggers and Cable Splicers,normalized_match
+7221,"Blacksmiths, hammer smiths and forging press workers","Blacksmiths, Hammersmiths and Forging Press Workers",title_mismatch
+7222,Toolmakers and related workers,Toolmakers and Related Workers,normalized_match
+7223,Metal working machine tool setters and operators,Metal Working Machine Tool Setters and  Operators,normalized_match
+7224,"Metal polishers, wheel grinders and tool sharpeners","Metal Polishers, Wheel Grinders and Tool Sharpeners",normalized_match
+7231,Motor vehicle mechanics and repairers,Motor Vehicle Mechanics and Repairers,normalized_match
+7232,Aircraft engine mechanics and repairers,Aircraft Engine Mechanics and Repairers,normalized_match
+7233,Agricultural and industrial machinery mechanics and repairers,Agricultural and Industrial Machinery Mechanics and Repairers,normalized_match
+7234,Bicycle and related repairers,Bicycle and Related Repairers,normalized_match
+7311,Precision-instrument makers and repairers,Precision-instrument Makers and Repairers,normalized_match
+7312,Musical instrument makers and tuners,Musical Instrument Makers and Tuners,normalized_match
+7313,Jewellery and precious-metal workers,Jewellery and Precious Metal Workers,normalized_match
+7314,Potters and related workers,Potters and Related Workers,normalized_match
+7315,"Glass makers, cutters, grinders and finishers","Glass Makers, Cutters, Grinders and Finishers",normalized_match
+7316,"Sign writers, decorative painters, engravers and etchers","Sign Writers, Decorative Painters, Engravers and Etchers",normalized_match
+7317,"Handicraft workers in wood, basketry and related materials","Handicraft Workers in Wood, Basketry and Related Materials",normalized_match
+7318,"Handicraft workers in textile, leather and related materials","Handicraft Workers in Textile, Leather and Related Materials",normalized_match
+7319,Handicraft workers not elsewhere classified,Handicraft Workers Not Elsewhere Classified,normalized_match
+7321,Pre-press technicians,Pre-press Technicians,normalized_match
+7322,Printers,Printers,exact_match
+7323,Print finishing and binding workers,Print Finishing and Binding Workers,normalized_match
+7411,Building and related electricians,Building and Related Electricians,normalized_match
+7412,Electrical mechanics and fitters,Electrical Mechanics and Fitters,normalized_match
+7413,Electrical line installers and repairers,Electrical Line Installers and Repairers,normalized_match
+7421,Electronics mechanics and servicers,Electronics Mechanics and Servicers,normalized_match
+7422,Information and communications technology installers and servicers,Information and Communications Technology Installers and Servicers,normalized_match
+7511,"Butchers, fishmongers and related food preparers","Butchers, Fishmongers and Related Food Preparers",normalized_match
+7512,"Bakers, pastry-cooks and confectionery makers","Bakers, Pastry-cooks and Confectionery Makers",normalized_match
+7513,Dairy-products makers,Dairy Products Makers,normalized_match
+7514,"Fruit, vegetable and related preservers","Fruit, Vegetable and Related Preservers",normalized_match
+7515,Food and beverage tasters and graders,Food and Beverage Tasters and Graders,normalized_match
+7516,Tobacco preparers and tobacco products makers,Tobacco Preparers and Tobacco Products Makers,normalized_match
+7521,Wood treaters,Wood Treaters,normalized_match
+7522,Cabinet-makers and related workers,Cabinet-makers and Related Workers,normalized_match
+7523,Woodworking-machine tool setters and operators,Woodworking Machine Tool Setters and Operators,normalized_match
+7531,"Tailors, dressmakers, furriers and hatters","Tailors, Dressmakers, Furriers and Hatters",normalized_match
+7532,Garment and related pattern-makers and cutters,Garment and Related Patternmakers and Cutters,title_mismatch
+7533,"Sewing, embroidery and related workers","Sewing, Embroidery and Related Workers",normalized_match
+7534,Upholsterers and related workers,Upholsterers and Related Workers,normalized_match
+7535,"Pelt dressers, tanners and fell mongers","Pelt Dressers, Tanners and Fellmongers",title_mismatch
+7536,Shoemakers and related workers,Shoemakers and Related Workers,normalized_match
+7541,Underwater divers,Underwater Divers,normalized_match
+7542,Shot firers and blasters,Shotfirers and Blasters,title_mismatch
+7543,Product graders and testers (excluding foods and beverages),Product Graders and Testers (except Foods and Beverages),title_mismatch
+7544,Fumigators and other pest and weed controllers,Fumigators and Other Pest and Weed Controllers,normalized_match
+7549,Craft and related workers not elsewhere classified,Craft and Related Workers not Elsewhere Classified,normalized_match
+8111,Miners and quarries,Miners and Quarriers,title_mismatch
+8112,Mineral and stone processing plant operators,Mineral and Stone Processing Plant Operators,normalized_match
+8113,Well drillers and borers and related workers,Well Drillers and Borers and Related Workers,normalized_match
+8114,"Cement, stone and other mineral products machine operators","Cement, Stone and Other Mineral Products Machine Operators",normalized_match
+8121,Metal processing plant operators,Metal Processing Plant Operators,normalized_match
+8122,"Metal finishing, plating and coating machine operators","Metal Finishing, Plating and Coating Machine Operators",normalized_match
+8131,Chemical products plant and machine operators,Chemical Products Plant and Machine Operators,normalized_match
+8132,Photographic products machine operators,Photographic Products Machine Operators,normalized_match
+8141,Rubber products machine operators,Rubber Products Machine Operators,normalized_match
+8142,Plastic products machine operators,Plastic Products Machine Operators,normalized_match
+8143,Paper products machine operators,Paper Products Machine Operators,normalized_match
+8151,"Fibre preparing, spinning and winding machine operators","Fibre Preparing, Spinning and Winding Machine Operators",normalized_match
+8152,Weaving and knitting machine operators,Weaving and Knitting Machine Operators,normalized_match
+8153,Sewing machine operators,Sewing Machine Operators,normalized_match
+8154,"Bleaching, dyeing and fabric cleaning machine operators","Bleaching, Dyeing and Fabric Cleaning Machine Operators",normalized_match
+8155,Fur and leather preparing machine operators,Fur and Leather Preparing Machine Operators,normalized_match
+8156,Shoemaking and related machine operators,Shoemaking and Related Machine Operators,normalized_match
+8157,Laundry machine operators,Laundry Machine Operators,normalized_match
+8159,"Textile, fur and leather products machine operators not elsewhere classified","Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified",normalized_match
+8160,Food and related products machine operators,Food and Related Products Machine Operators,normalized_match
+8171,Pulp and papermaking plant operators,Pulp and Papermaking Plant Operators,normalized_match
+8172,Wood processing plant operators,Wood Processing Plant Operators,normalized_match
+8181,Glass and ceramics plant operators,Glass and Ceramics Plant Operators,normalized_match
+8182,Steam engine and boiler operators,Steam Engine and Boiler Operators,normalized_match
+8183,"Packing, bottling and labelling machine operators","Packing, Bottling and Labelling Machine Operators",normalized_match
+8189,Stationary plant and machine operators not elsewhere classified,Stationary Plant and Machine Operators Not Elsewhere Classified,normalized_match
+8211,Mechanical machinery assemblers,Mechanical Machinery Assemblers,normalized_match
+8212,Electrical and electronic equipment assemblers,Electrical and Electronic Equipment Assemblers,normalized_match
+8219,Assemblers not elsewhere classified,Assemblers Not Elsewhere Classified,normalized_match
+8311,Locomotive engine drivers,Locomotive Engine Drivers,normalized_match
+8312,"Railway brake, signal and switch operators","Railway Brake, Signal and Switch Operators",normalized_match
+8321,Motorcycle drivers,Motorcycle Drivers,normalized_match
+8322,"Car, taxi and van drivers","Car, Taxi and Van Drivers",normalized_match
+8331,Bus and tram drivers,Bus and Tram Drivers,normalized_match
+8332,Heavy truck and lorry drivers,Heavy Truck and Lorry Drivers,normalized_match
+8341,Mobile farm and forestry plant operators,Mobile Farm and Forestry Plant Operators,normalized_match
+8342,Earthmoving and related plant operators,Earthmoving and Related Plant Operators,normalized_match
+8343,"Crane, hoist and related plant operators","Crane, hoist and related plant operators",exact_match
+8344,Lifting truck operators,Lifting Truck Operators,normalized_match
+8350,Ships' deck crews and related workers,Ships' Deck Crews and Related Workers,normalized_match
+9111,Domestic cleaners and helpers,Domestic Cleaners and Helpers,normalized_match
+9112,"Cleaners and helpers in offices, hotels and other establishments","Cleaners and Helpers in Offices, Hotels and Other Establishments",normalized_match
+9121,Hand launderers and pressers,Hand Launderers and Pressers,normalized_match
+9122,Vehicle cleaners,Vehicle Cleaners,normalized_match
+9123,Window cleaners,Window Cleaners,normalized_match
+9129,Other cleaning workers,Other Cleaning Workers,normalized_match
+9211,Crop farm labourers,Crop Farm Labourers,normalized_match
+9212,Livestock farm labourers,Livestock Farm Labourers,normalized_match
+9213,Mixed crop and livestock farm labourers,Mixed Crop and Livestock Farm Labourers,normalized_match
+9214,Garden and horticultural labourers,Garden and Horticultural Labourers,normalized_match
+9215,Forestry labourers,Forestry Labourers,normalized_match
+9216,Fishery and aquaculture labourers,Fishery and Aquaculture Labourers,normalized_match
+9311,Mining and quarrying labourers,Mining and Quarrying Labourers,normalized_match
+9312,Civil engineering labourers,Civil Engineering Labourers,normalized_match
+9313,Building construction labourers,Building Construction Labourers,normalized_match
+9321,Hand packers,Hand Packers,normalized_match
+9329,Manufacturing labourers not elsewhere classified,Manufacturing Labourers Not Elsewhere Classified,normalized_match
+9331,Hand and pedal vehicle drivers,Hand and Pedal Vehicle Drivers,normalized_match
+9332,Drivers of animal-drawn vehicles and machinery,Drivers of Animal-drawn Vehicles and Machinery,normalized_match
+9333,Freight handlers,Freight Handlers,normalized_match
+9334,Shelf fillers,Shelf Fillers,normalized_match
+9411,Fast food preparers,Fast Food Preparers,normalized_match
+9412,Kitchen helpers,Kitchen Helpers,normalized_match
+9510,Street and related service workers,Street and Related Service Workers,normalized_match
+9520,Street vendors (excluding food),Street Vendors (excluding Food),normalized_match
+9611,Garbage and recycling collectors,Garbage and Recycling Collectors,normalized_match
+9612,Refuse sorters,Refuse Sorters,normalized_match
+9613,Sweepers and related labourers,Sweepers and Related Labourers,normalized_match
+9621,"Messengers, package deliverers and luggage porters","Messengers, Package Deliverers and Luggage Porters",normalized_match
+9622,Odd job persons,Odd Job Persons,normalized_match
+9623,Meter readers and vending-machine collectors,Meter Readers and Vending-machine Collectors,normalized_match
+9624,Water and firewood collectors,Water and Firewood Collectors,normalized_match
+9629,Elementary workers not elsewhere classified,Elementary Workers Not Elsewhere Classified,normalized_match

@@ -1,0 +1,47 @@
+# ---------------------------------------------------------------
+# Raw PBS Labour Force Survey microdata -- NOT redistributed.
+# Obtain from https://www.pbs.gov.pk/labour-force-statistics
+# ---------------------------------------------------------------
+microdata/
+*.dta
+*.sav
+*.por
+*.zip
+*.7z
+*.tar.gz
+
+# ---------------------------------------------------------------
+# Third-party source documents -- copyrighted, not redistributed
+# ---------------------------------------------------------------
+*.pdf
+!output/figures/*.pdf
+*.xls
+*.xlsx
+*.doc
+*.docx
+ilostat_pakistan.csv
+Refrences/
+References/
+Research draft/
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------
+# OS and editor
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~

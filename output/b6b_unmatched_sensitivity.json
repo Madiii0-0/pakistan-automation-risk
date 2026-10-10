@@ -1,0 +1,197 @@
+{
+  "a_excluded": {
+    "Male|min_prob": {
+      "scoreable_M": 55.919,
+      "unscoreable_M": 3.562,
+      "unscoreable_pct": 5.989,
+      "high_risk_pct": 22.32,
+      "weighted_mean_prob": 0.4521
+    },
+    "Male|mean_prob": {
+      "scoreable_M": 55.919,
+      "unscoreable_M": 3.562,
+      "unscoreable_pct": 5.989,
+      "high_risk_pct": 52.39,
+      "weighted_mean_prob": 0.6019
+    },
+    "Male|max_prob": {
+      "scoreable_M": 55.919,
+      "unscoreable_M": 3.562,
+      "unscoreable_pct": 5.989,
+      "high_risk_pct": 68.27,
+      "weighted_mean_prob": 0.7256
+    },
+    "Female|min_prob": {
+      "scoreable_M": 16.154,
+      "unscoreable_M": 1.69,
+      "unscoreable_pct": 9.469,
+      "high_risk_pct": 12.63,
+      "weighted_mean_prob": 0.5137
+    },
+    "Female|mean_prob": {
+      "scoreable_M": 16.154,
+      "unscoreable_M": 1.69,
+      "unscoreable_pct": 9.469,
+      "high_risk_pct": 69.44,
+      "weighted_mean_prob": 0.6398
+    },
+    "Female|max_prob": {
+      "scoreable_M": 16.154,
+      "unscoreable_M": 1.69,
+      "unscoreable_pct": 9.469,
+      "high_risk_pct": 71.45,
+      "weighted_mean_prob": 0.762
+    },
+    "Total|min_prob": {
+      "scoreable_M": 72.073,
+      "unscoreable_M": 5.252,
+      "unscoreable_pct": 6.792,
+      "high_risk_pct": 20.15,
+      "weighted_mean_prob": 0.4659
+    },
+    "Total|mean_prob": {
+      "scoreable_M": 72.073,
+      "unscoreable_M": 5.252,
+      "unscoreable_pct": 6.792,
+      "high_risk_pct": 56.21,
+      "weighted_mean_prob": 0.6104
+    },
+    "Total|max_prob": {
+      "scoreable_M": 72.073,
+      "unscoreable_M": 5.252,
+      "unscoreable_pct": 6.792,
+      "high_risk_pct": 68.98,
+      "weighted_mean_prob": 0.7338
+    }
+  },
+  "b_assigned_point": {
+    "Male|min_prob": {
+      "scoreable_M": 58.359,
+      "unscoreable_M": 1.123,
+      "unscoreable_pct": 1.888,
+      "high_risk_pct": 25.56,
+      "weighted_mean_prob": 0.4695
+    },
+    "Male|mean_prob": {
+      "scoreable_M": 58.359,
+      "unscoreable_M": 1.123,
+      "unscoreable_pct": 1.888,
+      "high_risk_pct": 54.38,
+      "weighted_mean_prob": 0.6131
+    },
+    "Male|max_prob": {
+      "scoreable_M": 58.359,
+      "unscoreable_M": 1.123,
+      "unscoreable_pct": 1.888,
+      "high_risk_pct": 69.59,
+      "weighted_mean_prob": 0.7317
+    },
+    "Female|min_prob": {
+      "scoreable_M": 17.351,
+      "unscoreable_M": 0.492,
+      "unscoreable_pct": 2.756,
+      "high_risk_pct": 18.66,
+      "weighted_mean_prob": 0.5383
+    },
+    "Female|mean_prob": {
+      "scoreable_M": 17.351,
+      "unscoreable_M": 0.492,
+      "unscoreable_pct": 2.756,
+      "high_risk_pct": 71.55,
+      "weighted_mean_prob": 0.6557
+    },
+    "Female|max_prob": {
+      "scoreable_M": 17.351,
+      "unscoreable_M": 0.492,
+      "unscoreable_pct": 2.756,
+      "high_risk_pct": 73.42,
+      "weighted_mean_prob": 0.7695
+    },
+    "Total|min_prob": {
+      "scoreable_M": 75.71,
+      "unscoreable_M": 1.615,
+      "unscoreable_pct": 2.088,
+      "high_risk_pct": 23.98,
+      "weighted_mean_prob": 0.4853
+    },
+    "Total|mean_prob": {
+      "scoreable_M": 75.71,
+      "unscoreable_M": 1.615,
+      "unscoreable_pct": 2.088,
+      "high_risk_pct": 58.32,
+      "weighted_mean_prob": 0.6229
+    },
+    "Total|max_prob": {
+      "scoreable_M": 75.71,
+      "unscoreable_M": 1.615,
+      "unscoreable_pct": 2.088,
+      "high_risk_pct": 70.47,
+      "weighted_mean_prob": 0.7403
+    }
+  },
+  "c_assigned_flagged": {
+    "Male|min_prob": {
+      "scoreable_M": 58.359,
+      "unscoreable_M": 1.123,
+      "unscoreable_pct": 1.888,
+      "high_risk_pct": 25.56,
+      "weighted_mean_prob": 0.4687
+    },
+    "Male|mean_prob": {
+      "scoreable_M": 58.359,
+      "unscoreable_M": 1.123,
+      "unscoreable_pct": 1.888,
+      "high_risk_pct": 54.38,
+      "weighted_mean_prob": 0.6127
+    },
+    "Male|max_prob": {
+      "scoreable_M": 58.359,
+      "unscoreable_M": 1.123,
+      "unscoreable_pct": 1.888,
+      "high_risk_pct": 69.59,
+      "weighted_mean_prob": 0.7317
+    },
+    "Female|min_prob": {
+      "scoreable_M": 17.351,
+      "unscoreable_M": 0.492,
+      "unscoreable_pct": 2.756,
+      "high_risk_pct": 18.66,
+      "weighted_mean_prob": 0.5369
+    },
+    "Female|mean_prob": {
+      "scoreable_M": 17.351,
+      "unscoreable_M": 0.492,
+      "unscoreable_pct": 2.756,
+      "high_risk_pct": 71.55,
+      "weighted_mean_prob": 0.655
+    },
+    "Female|max_prob": {
+      "scoreable_M": 17.351,
+      "unscoreable_M": 0.492,
+      "unscoreable_pct": 2.756,
+      "high_risk_pct": 73.42,
+      "weighted_mean_prob": 0.7695
+    },
+    "Total|min_prob": {
+      "scoreable_M": 75.71,
+      "unscoreable_M": 1.615,
+      "unscoreable_pct": 2.088,
+      "high_risk_pct": 23.98,
+      "weighted_mean_prob": 0.4843
+    },
+    "Total|mean_prob": {
+      "scoreable_M": 75.71,
+      "unscoreable_M": 1.615,
+      "unscoreable_pct": 2.088,
+      "high_risk_pct": 58.32,
+      "weighted_mean_prob": 0.6224
+    },
+    "Total|max_prob": {
+      "scoreable_M": 75.71,
+      "unscoreable_M": 1.615,
+      "unscoreable_pct": 2.088,
+      "high_risk_pct": 70.47,
+      "weighted_mean_prob": 0.7403
+    }
+  }
+}

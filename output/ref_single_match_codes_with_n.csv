@@ -1,0 +1,139 @@
+occ_code,title,employment_millions,mean_prob,matched_soc,matched_soc_title,flagged_generic,n_unweighted,n_psu,below_30
+5221,Shop keepers,6.5781,0.16,11-1021,General and operations managers,True,8172,2901,
+6111,Field crop and vegetable growers,4.3301,0.57,45-1011,"First-line supervisors of farming, fishing, and forestry workers",True,6648,1511,
+7531,"Tailors, dressmakers, furriers and hatters",2.9394,0.84,51-6052,"Tailors, dressmakers, and custom sewers",False,3550,1729,
+2330,Secondary education teachers,1.0717,0.0078,25-2031,"Secondary school teachers, except special and career/technical education",False,1388,994,
+9111,Domestic cleaners and helpers,0.7204,0.69,37-2012,Maids and housekeeping cleaners,False,826,600,
+2359,Teaching professionals not elsewhere classified,0.4823,0.0085,21-1012,"Educational, guidance, school, and vocational counselors",False,611,437,
+5222,Shop supervisors,0.4253,0.28,41-1011,First-line supervisors of retail sales workers,True,527,394,
+1420,Retail and wholesale trade managers,0.4198,0.16,11-1021,General and operations managers,True,495,396,
+8341,Mobile farm and forestry plant operators,0.3979,0.79,45-4022,Logging equipment operators,False,552,419,
+5211,Stall and market salespersons,0.3974,0.94,41-9091,"Door-to-door sales workers, news and street vendors, and related workers",False,493,344,
+5153,Building caretakers,0.3762,0.66,37-2011,"Janitors and cleaners, except maids and housekeeping cleaners",False,522,413,
+9520,Street vendors (excluding food),0.3637,0.94,41-9091,"Door-to-door sales workers, news and street vendors, and related workers",False,393,269,
+6114,Mixed crop growers,0.3357,0.57,45-1011,"First-line supervisors of farming, fishing, and forestry workers",True,525,220,
+8152,Weaving and knitting machine operators,0.3149,0.73,51-6063,"Textile knitting and weaving machine setters, operators, and tenders",False,349,206,
+8153,Sewing machine operators,0.3089,0.89,51-6031,Sewing machine operators,False,355,195,
+7512,"Bakers, pastry-cooks and confectionery makers",0.2534,0.89,51-3011,Bakers,False,301,211,
+3221,Nursing associate professionals,0.224,0.058,29-2061,Licensed practical and licensed vocational nurses,False,291,253,
+3213,Pharmaceutical technicians and assistants,0.1875,0.92,29-2052,Pharmacy technicians,False,246,218,
+1323,Construction managers,0.1539,0.071,11-9021,Construction managers,False,192,158,
+1439,Services managers not elsewhere classified,0.1524,0.25,11-9199,"Managers, all other",True,176,155,
+7536,Shoemakers and related workers,0.1486,0.52,51-6041,Shoe and leather workers and repairers,False,169,133,
+3122,Manufacturing supervisors,0.144,0.016,51-1011,First-line supervisors of production and operating workers,True,165,141,
+3313,Accounting associate professionals,0.1411,0.98,43-3031,"Bookkeeping, accounting, and auditing clerks",False,181,163,
+7318,"Handicraft workers in textile, leather and related materials",0.14,0.52,51-6041,Shoe and leather workers and repairers,False,158,95,
+1321,Manufacturing managers,0.1378,0.03,11-3051,Industrial production managers,False,156,125,
+7317,"Handicraft workers in wood, basketry and related materials",0.1364,0.035,27-1012,Craft artists,False,159,93,
+9216,Fishery and aquaculture labourers,0.1356,0.83,45-3011,Fishers and related fishing workers,False,222,51,
+8151,"Fibre preparing, spinning and winding machine operators",0.1343,0.96,51-6064,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",False,150,107,
+3256,Medical assistants,0.1249,0.3,31-9092,Medical assistants,False,160,153,
+7411,Building and related electricians,0.1244,0.15,47-2111,Electricians,False,144,127,
+5243,Door to door salespersons,0.1219,0.94,41-9091,"Door-to-door sales workers, news and street vendors, and related workers",False,144,125,
+1324,"Supply, distribution and related managers",0.12,0.59,11-3071,"Transportation, storage, and distribution managers",False,140,126,
+2611,Lawyers,0.1191,0.035,23-1011,Lawyers,False,143,127,
+4132,Data entry clerks,0.1188,0.99,43-9021,Data entry keyers,False,146,123,
+3341,Office supervisors,0.1187,0.014,43-1011,First-line supervisors of office and administrative support workers,True,129,111,
+8172,Wood processing plant operators,0.1076,0.86,51-7041,"Sawing machine setters, operators, and tenders, wood",False,131,84,
+7313,Jewellery and precious-metal workers,0.1031,0.95,51-9071,Jewelers and precious stone and metal workers,False,112,84,
+1412,Restaurant managers,0.101,0.083,11-9051,Food service managers,False,140,130,
+9214,Garden and horticultural labourers,0.0992,0.95,37-3011,Landscaping and groundskeeping workers,False,141,110,
+9311,Mining and quarrying labourers,0.0975,0.37,47-5081,Helpers–extraction workers,False,166,74,
+9624,Water and firewood collectors,0.0934,0.85,53-7062,"Labourers and freight, stock, and material movers, hand",False,119,96,
+8156,Shoemaking and related machine operators,0.0924,0.97,51-6042,Shoe machine operators and tenders,False,100,57,
+9321,Hand packers,0.087,0.38,53-7064,"Packers and packagers, hand",False,101,77,
+8154,"Bleaching, dyeing and fabric cleaning machine operators",0.086,0.97,51-6061,Textile bleaching and dyeing machine operators and tenders,False,94,39,
+7221,"Blacksmiths, hammer smiths and forging press workers",0.0851,0.93,51-4022,"Forging machine setters, operators, and tenders, Metal and Plastic",False,90,56,
+3511,Information and communications technology operations technicians,0.0767,0.78,43-9011,Computer operators,False,86,81,
+2230,Traditional and complementary medicine professionals,0.0705,0.02,29-1199,"Health diagnosing and treating practitioners, all other",True,87,73,
+9121,Hand launderers and pressers,0.0695,0.81,51-6021,"Pressers, textile, garment, and related materials",False,81,66,
+4131,Typists and word processing operators,0.0647,0.81,43-9022,Word processors and typists,False,76,71,
+6112,Tree and shrub crop growers,0.0632,0.57,45-1011,"First-line supervisors of farming, fishing, and forestry workers",True,125,45,
+9122,Vehicle cleaners,0.0631,0.37,53-7061,Cleaners of vehicles and equipment,False,90,75,
+1311,Agricultural and forestry production managers,0.0625,0.047,11-9013,"Farmers, ranchers, and other agricultural managers",False,85,63,
+9215,Forestry labourers,0.0615,0.87,45-4011,Forest and conservation workers,False,82,57,
+3123,Construction supervisors,0.0603,0.17,47-1011,First-line supervisors of construction trades and extraction workers,True,67,53,
+8183,"Packing, bottling and labelling machine operators",0.0576,0.98,51-9111,Packaging and filling machine operators and tenders,False,62,48,
+2142,Civil engineers,0.0529,0.019,17-2051,Civil engineers,False,68,64,
+1411,Hotel managers,0.0522,0.0039,11-9081,Lodging managers,False,67,62,
+7115,Carpenters and joiners,0.0519,0.72,47-2031,Carpenters,False,62,48,
+1211,Finance managers,0.0481,0.069,11-3031,Financial managers,False,52,45,
+7322,Printers,0.0463,0.83,51-5112,Printing press operators,False,52,45,
+7323,Print finishing and binding workers,0.042,0.95,51-5113,Print binding and finishing workers,False,37,33,
+3332,Conference and event planners,0.0387,0.037,13-1121,"Meeting, convention, and event planners",False,40,34,
+2619,Legal professionals not elsewhere classified,0.0361,0.06,23-1022,"Arbitrators, mediators, and conciliators",False,43,38,
+3412,Social work associate professionals,0.0347,0.13,21-1093,Social and human service assistants,False,49,44,
+3431,Photographers,0.0298,0.021,27-4021,Photographers,False,28,23,YES
+4323,Transport clerks,0.028,0.96,43-5032,"Dispatchers, except police, fire, and ambulance",False,36,33,
+7534,Upholsterers and related workers,0.0274,0.39,51-6093,Upholsterers,False,38,21,
+2250,Veterinarians,0.0263,0.038,29-1131,Veterinarians,False,33,31,
+7319,Handicraft workers not elsewhere classified,0.0198,0.035,27-1012,Craft artists,False,19,19,YES
+3142,Agricultural technicians,0.0197,0.97,19-4011,Agricultural and food science technicians,False,34,32,
+3342,Legal secretaries,0.0195,0.98,43-6012,Legal secretaries,False,22,22,YES
+4313,Payroll clerks,0.0189,0.97,43-3051,Payroll and timekeeping clerks,False,25,23,YES
+2151,Electrical engineers,0.0182,0.1,17-2071,Electrical engineers,False,20,20,YES
+8157,Laundry machine operators,0.0177,0.71,51-6011,Laundry and dry-cleaning workers,False,21,17,YES
+2521,Database designers and administrators,0.0165,0.03,15-1141,Database administrators,False,17,16,YES
+3352,Government tax and excise officials,0.0164,0.93,13-2081,"Tax examiners and collectors, and revenue agents",False,19,19,YES
+2262,Pharmacists,0.015,0.012,29-1051,Pharmacists,False,18,16,YES
+1349,Professional services managers not elsewhere classified,0.0137,0.25,11-9199,"Managers, all other",True,17,15,YES
+3522,Telecommunications engineering technicians,0.0131,0.84,17-3023,Electrical and electronics engineering technicians,False,17,16,YES
+1330,Information and communications technology service managers,0.0126,0.035,11-3021,Computer and information systems managers,False,12,10,YES
+4322,Production clerks,0.0121,0.88,43-5061,"Production, planning, and expediting clerks",False,15,14,YES
+7535,"Pelt dressers, tanners and fell mongers",0.0117,0.41,45-2041,"Graders and sorters, agricultural products",False,12,9,YES
+2145,Chemical engineers,0.0116,0.017,17-2041,Chemical engineers,False,16,14,YES
+2267,Optometrists and ophthalmic opticians,0.0115,0.14,29-1041,Optometrists,False,14,14,YES
+4120,Secretaries (general),0.0113,0.96,43-6014,"Secretaries and administrative assistants, except legal, medical, and executive",False,16,16,YES
+4226,Receptionists (general),0.0112,0.96,43-4171,Receptionists and information clerks,False,12,11,YES
+9612,Refuse sorters,0.0106,0.93,53-7081,Refuse and recyclable material collectors,False,9,8,YES
+1322,Mining managers,0.01,0.25,11-9199,"Managers, all other",True,15,12,YES
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments",0.0095,0.94,37-1011,First-line Supervisors of housekeeping and janitorial workers,True,11,10,YES
+4214,Debt-collectors and related workers,0.0091,0.95,43-3011,Bill and account collectors,False,10,10,YES
+1342,Health services managers,0.0085,0.0073,11-9111,Medical and health services managers,False,10,10,YES
+2161,Building architects,0.0085,0.018,17-1011,"Architects, except landscape and naval",False,8,8,YES
+2514,Applications programmers,0.0083,0.48,15-1131,Computer programmers,False,8,7,YES
+5249,Sales workers not elsewhere classified,0.0083,0.97,41-2021,Counter and rental clerks,False,9,9,YES
+2153,Telecommunications engineers,0.0081,0.025,17-2072,"Electronics engineers, except computer",False,9,9,YES
+5321,Health care assistants,0.008,0.47,31-1013,Psychiatric aides,False,12,8,YES
+3514,Web technicians,0.0072,0.03,15-1142,Network and computer systems administrators,False,6,6,YES
+3421,Athletes and sports players,0.0063,0.28,27-2021,Athletes and sports competitors,False,7,7,YES
+1312,Aquaculture and fisheries production managers,0.0059,0.047,11-9013,"Farmers, ranchers, and other agricultural managers",False,7,3,YES
+3252,Medical records and health information technicians,0.0059,0.91,29-2071,Medical records and health information technicians,False,6,6,YES
+9331,Hand and pedal vehicle drivers,0.0055,0.94,43-5021,Couriers and messengers,False,5,4,YES
+2141,Industrial and production engineers,0.0053,0.029,17-2112,Industrial engineers,False,5,3,YES
+3116,Chemical engineering technicians,0.0051,0.24,17-3029,"Engineering technicians, except drafters, all other",True,6,6,YES
+7543,Product graders and testers (excluding foods and beverages),0.0051,0.98,51-9061,"Inspectors, testers, sorters, samplers, and weighers",False,6,6,YES
+1213,Policy and planning managers,0.0045,0.25,11-9199,"Managers, all other",True,4,4,YES
+7215,Riggers and cable splicers,0.0042,0.89,49-9096,Riggers,False,5,4,YES
+7514,"Fruit, vegetable and related preservers",0.004,0.61,51-3093,Food cooking machine operators and tenders,False,3,3,YES
+3333,Employment agents and contractors,0.0038,0.97,13-1074,Farm labour contractors,False,5,5,YES
+5165,Driving instructors,0.0036,0.13,25-3021,Self-enrichment education teachers,False,3,3,YES
+2351,Education methods specialists,0.0033,0.0042,25-9031,Instructional coordinators,False,4,4,YES
+8219,Assemblers not elsewhere classified,0.0031,0.97,51-2092,Team assemblers,False,4,1,YES
+3135,Metal production process controllers,0.003,0.88,51-4051,Metal-refining furnace operators and tenders,False,3,2,YES
+8182,Steam engine and boiler operators,0.003,0.89,51-8021,Stationary engineers and boiler operators,False,3,3,YES
+3114,Electronics engineering technicians,0.0029,0.84,17-3023,Electrical and electronics engineering technicians,False,3,3,YES
+3121,Mining supervisors,0.0029,0.17,47-1011,First-line supervisors of construction trades and extraction workers,True,6,6,YES
+3143,Forestry technicians,0.0028,0.42,19-4093,Forest and conservation technicians,False,3,3,YES
+4229,Client information workers not elsewhere classified,0.0024,0.7,43-4061,"Eligibility interviewers, government programs",False,3,3,YES
+3254,Dispensing opticians,0.0021,0.71,29-2081,"Opticians, dispensing",False,2,2,YES
+3139,Process control technicians not elsewhere classified,0.0018,0.36,51-4012,"Computer numerically controlled machine tool programmers, metal and plastic",False,2,2,YES
+5152,Domestic housekeepers,0.0015,0.94,37-1011,First-line Supervisors of housekeeping and janitorial workers,True,2,2,YES
+7121,Roofers,0.0015,0.9,47-2181,Roofers,False,2,2,YES
+5132,Bartenders,0.0014,0.77,35-3011,Bartenders,False,1,1,YES
+1344,Social welfare managers,0.0013,0.0067,11-9151,Social and community service managers,False,2,2,YES
+2265,Dieticians and nutritionists,0.001,0.0039,29-1031,Dietitians and nutritionists,False,2,2,YES
+2432,Public relations professionals,0.0009,0.18,27-3031,Public relations specialists,False,1,1,YES
+3435,Other artistic and cultural associate professionals,0.0009,0.61,39-3092,Costume attendants,False,1,1,YES
+4227,Survey and market research interviewers,0.0009,0.94,43-4111,"Interviewers, except eligibility and loan",False,1,1,YES
+4416,Personnel clerks,0.0009,0.9,43-4161,"Human resources assistants, except payroll and timekeeping",False,1,1,YES
+2522,Systems administrators,0.0008,0.03,15-1142,Network and computer systems administrators,False,1,1,YES
+5244,Contact centre salespersons,0.0008,0.99,41-9041,Telemarketers,False,1,1,YES
+7542,Shot firers and blasters,0.0008,0.48,47-5031,"Explosives workers, ordnance handling experts, and blasters",False,1,1,YES
+8132,Photographic products machine operators,0.0008,0.99,51-9151,Photographic process workers and processing machine operators,False,1,1,YES
+1113,Traditional chiefs and heads of village,0.0007,0.015,11-1011,Chief executives,False,1,1,YES
+2143,Environmental engineers,0.0006,0.018,17-2081,Environmental engineers,False,1,1,YES
+3359,Regulatory government associate professionals not elsewhere classified,0.0004,0.94,45-2011,Agricultural inspectors,False,1,1,YES
+5242,Sales demonstrators,0.0004,0.51,41-9011,Demonstrators and product promoters,False,1,1,YES
+7523,Woodworking-machine tool setters and operators,0.0004,0.97,51-7042,"Woodworking machine setters, operators, and tenders, except sawing",False,1,1,YES
+2355,Other arts teachers,0.0002,0.13,25-3021,Self-enrichment education teachers,False,1,1,YES

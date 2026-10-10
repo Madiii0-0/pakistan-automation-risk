@@ -1,0 +1,36 @@
+occ_code,title,female_employment_M,min_prob,mean_prob,contribution_to_swing_pp
+6130,Mixed crop and animal producers,4.9766,0.57,0.76,28.6814
+6121,Livestock and dairy producers,3.3937,0.57,0.76,19.5588
+7533,"Sewing, embroidery and related workers",0.557,0.52,0.8233,3.2101
+6122,Poultry producers,0.0761,0.57,0.76,0.4386
+9329,Manufacturing labourers not elsewhere classified,0.0701,0.66,0.8133,0.404
+5120,Cooks,0.0418,0.3,0.732,0.2409
+6210,Forestry and related workers,0.0159,0.57,0.792,0.0916
+9313,Building construction labourers,0.0107,0.57,0.8,0.0617
+7511,"Butchers, fishmongers and related food preparers",0.0066,0.6,0.845,0.038
+7212,Welders and flame cutters,0.0059,0.61,0.775,0.034
+8160,Food and related products machine operators,0.005,0.61,0.816,0.0288
+4321,Stock clerks,0.0031,0.64,0.8567,0.0179
+7213,Sheet-metal workers,0.0031,0.68,0.78,0.0179
+6129,Animal producers not elsewhere classified,0.0027,0.57,0.76,0.0156
+7214,Structural-metal preparers and erectors,0.0016,0.41,0.7133,0.0092
+3314,"Statistical, mathematical and related associate professionals",0.0015,0.65,0.7667,0.0086
+8141,Rubber products machine operators,0.0012,0.37,0.822,0.0069
+7222,Toolmakers and related workers,0.0009,0.36,0.7733,0.0052
+7223,Metal working machine tool setters and operators,0.0009,0.65,0.8709,0.0052
+4222,Contact centre information clerks,0.0008,0.55,0.755,0.0046
+8181,Glass and ceramics plant operators,0.0008,0.37,0.8133,0.0046
+8113,Well drillers and borers and related workers,0.0005,0.53,0.7717,0.0029
+4412,Mail carriers and sorting clerks,0.0,0.68,0.86,0.0
+6123,Apiarists and sericulturists,0.0,0.57,0.76,0.0
+7123,Plasterers,0.0,0.62,0.75,0.0
+7124,Insulation workers,0.0,0.64,0.735,0.0
+7132,Spray painters and varnishers,0.0,0.69,0.8,0.0
+7211,Metal moulders and core makers,0.0,0.67,0.81,0.0
+7315,"Glass makers, cutters, grinders and finishers",0.0,0.64,0.8367,0.0
+7513,Dairy-products makers,0.0,0.7,0.79,0.0
+7516,Tobacco preparers and tobacco products makers,0.0,0.41,0.7467,0.0
+8143,Paper products machine operators,0.0,0.67,0.81,0.0
+8171,Pulp and papermaking plant operators,0.0,0.67,0.74,0.0
+8350,Ships' deck crews and related workers,0.0,0.62,0.725,0.0
+9629,Elementary workers not elsewhere classified,0.0,0.43,0.79,0.0

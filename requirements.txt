@@ -1,0 +1,8 @@
+# Verified against the versions used to produce the published results.
+# Later minor versions are expected to work; these are the pinned baseline.
+pandas==3.0.6
+numpy==2.4.6
+matplotlib==3.11.2
+pdfplumber==0.11.10
+openpyxl==3.1.5
+xlrd==2.0.2

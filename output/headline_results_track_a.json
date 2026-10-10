@@ -1,0 +1,137 @@
+{
+  "Total|min_prob": {
+    "sex": "Total",
+    "variant": "min_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 77608.6,
+    "unscoreable_employment_thousands": 32.9,
+    "unscoreable_share_pct_of_total": 0.0424,
+    "high_risk_share_pct": 9.43,
+    "band_shares_pct": {
+      "high": 9.43,
+      "medium": 31.33,
+      "low": 59.24
+    },
+    "employment_weighted_mean_prob": 0.2601
+  },
+  "Total|mean_prob": {
+    "sex": "Total",
+    "variant": "mean_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 77608.6,
+    "unscoreable_employment_thousands": 32.9,
+    "unscoreable_share_pct_of_total": 0.0424,
+    "high_risk_share_pct": 79.39,
+    "band_shares_pct": {
+      "high": 79.39,
+      "medium": 12.63,
+      "low": 7.99
+    },
+    "employment_weighted_mean_prob": 0.6734
+  },
+  "Total|max_prob": {
+    "sex": "Total",
+    "variant": "max_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 77608.6,
+    "unscoreable_employment_thousands": 32.9,
+    "unscoreable_share_pct_of_total": 0.0424,
+    "high_risk_share_pct": 93.22,
+    "band_shares_pct": {
+      "high": 93.22,
+      "medium": 1.22,
+      "low": 5.55
+    },
+    "employment_weighted_mean_prob": 0.9127
+  },
+  "Male|min_prob": {
+    "sex": "Male",
+    "variant": "min_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 58837.3,
+    "unscoreable_employment_thousands": 25.3,
+    "unscoreable_share_pct_of_total": 0.0429,
+    "high_risk_share_pct": 7.91,
+    "band_shares_pct": {
+      "high": 7.91,
+      "medium": 24.13,
+      "low": 67.96
+    },
+    "employment_weighted_mean_prob": 0.2105
+  },
+  "Male|mean_prob": {
+    "sex": "Male",
+    "variant": "mean_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 58837.3,
+    "unscoreable_employment_thousands": 25.3,
+    "unscoreable_share_pct_of_total": 0.0429,
+    "high_risk_share_pct": 78.91,
+    "band_shares_pct": {
+      "high": 78.91,
+      "medium": 14.05,
+      "low": 7.04
+    },
+    "employment_weighted_mean_prob": 0.6799
+  },
+  "Male|max_prob": {
+    "sex": "Male",
+    "variant": "max_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 58837.3,
+    "unscoreable_employment_thousands": 25.3,
+    "unscoreable_share_pct_of_total": 0.0429,
+    "high_risk_share_pct": 94.49,
+    "band_shares_pct": {
+      "high": 94.49,
+      "medium": 1.42,
+      "low": 4.1
+    },
+    "employment_weighted_mean_prob": 0.9262
+  },
+  "Female|min_prob": {
+    "sex": "Female",
+    "variant": "min_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 18762.5,
+    "unscoreable_employment_thousands": 7.7,
+    "unscoreable_share_pct_of_total": 0.0409,
+    "high_risk_share_pct": 14.19,
+    "band_shares_pct": {
+      "high": 14.19,
+      "medium": 53.91,
+      "low": 31.9
+    },
+    "employment_weighted_mean_prob": 0.4157
+  },
+  "Female|mean_prob": {
+    "sex": "Female",
+    "variant": "mean_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 18762.5,
+    "unscoreable_employment_thousands": 7.7,
+    "unscoreable_share_pct_of_total": 0.0409,
+    "high_risk_share_pct": 80.91,
+    "band_shares_pct": {
+      "high": 80.91,
+      "medium": 8.13,
+      "low": 10.96
+    },
+    "employment_weighted_mean_prob": 0.653
+  },
+  "Female|max_prob": {
+    "sex": "Female",
+    "variant": "max_prob",
+    "year": "2025",
+    "scoreable_employment_thousands": 18762.5,
+    "unscoreable_employment_thousands": 7.7,
+    "unscoreable_share_pct_of_total": 0.0409,
+    "high_risk_share_pct": 89.26,
+    "band_shares_pct": {
+      "high": 89.26,
+      "medium": 0.61,
+      "low": 10.13
+    },
+    "employment_weighted_mean_prob": 0.8704
+  }
+}

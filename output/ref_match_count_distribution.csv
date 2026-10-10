@@ -1,0 +1,346 @@
+occ_code,title,matched_soc_count,employment_millions,mean_prob,manually_assigned
+6130,Mixed crop and animal producers,2,11.8446,0.76,False
+5221,Shop keepers,1,6.5781,0.16,False
+9313,Building construction labourers,7,5.4495,0.8,False
+6121,Livestock and dairy producers,2,4.5692,0.76,False
+6111,Field crop and vegetable growers,1,4.3301,0.57,False
+7531,"Tailors, dressmakers, furriers and hatters",1,2.9394,0.84,False
+9211,Crop farm labourers,0,2.9171,0.87,True
+8322,"Car, taxi and van drivers",5,1.7571,0.5678,False
+5223,Shop sales assistants,2,1.4681,0.95,False
+8321,Motorcycle drivers,2,1.4082,0.4845,False
+2341,Primary school teachers,2,1.3093,0.0872,False
+9329,Manufacturing labourers not elsewhere classified,3,1.247,0.8133,False
+7112,Bricklayers and related workers,2,1.0827,0.82,False
+2330,Secondary education teachers,1,1.0717,0.0078,False
+5212,Street food salespersons,2,0.7896,0.9,False
+7533,"Sewing, embroidery and related workers",3,0.7788,0.8233,False
+7231,Motor vehicle mechanics and repairers,10,0.7709,0.6453,False
+9111,Domestic cleaners and helpers,1,0.7204,0.69,False
+5412,Police officers,3,0.6981,0.2241,False
+8332,Heavy truck and lorry drivers,2,0.5989,0.4095,False
+7412,Electrical mechanics and fitters,13,0.5866,0.6441,False
+4110,General office clerks,2,0.5731,0.97,False
+5414,Security guards,2,0.5716,0.895,False
+9112,"Cleaners and helpers in offices, hotels and other establishments",3,0.5695,0.5733,False
+5141,Hairdressers,3,0.5423,0.3287,False
+2359,Teaching professionals not elsewhere classified,1,0.4823,0.0085,False
+5131,Waiters,2,0.4752,0.9,False
+7522,Cabinet-makers and related workers,4,0.461,0.915,False
+5222,Shop supervisors,1,0.4253,0.28,False
+1420,Retail and wholesale trade managers,1,0.4198,0.16,False
+8341,Mobile farm and forestry plant operators,1,0.3979,0.79,False
+5211,Stall and market salespersons,1,0.3974,0.94,False
+7212,Welders and flame cutters,2,0.3825,0.775,False
+3324,Trade brokers,3,0.3812,0.3603,False
+5153,Building caretakers,1,0.3762,0.66,False
+9213,Mixed crop and livestock farm labourers,0,0.3721,0.87,True
+9333,Freight handlers,4,0.3643,0.514,False
+9520,Street vendors (excluding food),1,0.3637,0.94,False
+5120,Cooks,5,0.3582,0.732,False
+3334,Real estate agents and property managers,4,0.3514,0.6787,False
+9212,Livestock farm labourers,0,0.3477,0.87,True
+7131,Painters and related workers,2,0.3422,0.81,False
+6114,Mixed crop growers,1,0.3357,0.57,False
+2636,Religious professionals,2,0.3287,0.0166,False
+8160,Food and related products machine operators,5,0.3173,0.816,False
+8152,Weaving and knitting machine operators,1,0.3149,0.73,False
+8153,Sewing machine operators,1,0.3089,0.89,False
+9621,"Messengers, package deliverers and luggage porters",2,0.2768,0.885,False
+7234,Bicycle and related repairers,2,0.2589,0.4715,False
+7512,"Bakers, pastry-cooks and confectionery makers",1,0.2534,0.89,False
+7511,"Butchers, fishmongers and related food preparers",4,0.253,0.845,False
+3221,Nursing associate professionals,1,0.224,0.058,False
+7422,Information and communications technology installers and servicers,7,0.2184,0.5833,False
+7126,Plumbers and pipe fitters,2,0.1934,0.485,False
+3322,Commercial sales representatives,3,0.1909,0.3917,False
+3213,Pharmaceutical technicians and assistants,1,0.1875,0.92,False
+4211,Bank tellers and related clerks,2,0.1654,0.965,False
+6113,"Gardeners, horticultural and nursery growers",2,0.1604,0.67,False
+1323,Construction managers,1,0.1539,0.071,False
+1439,Services managers not elsewhere classified,1,0.1524,0.25,False
+7536,Shoemakers and related workers,1,0.1486,0.52,False
+3122,Manufacturing supervisors,1,0.144,0.016,False
+3313,Accounting associate professionals,1,0.1411,0.98,False
+7318,"Handicraft workers in textile, leather and related materials",1,0.14,0.52,False
+1321,Manufacturing managers,1,0.1378,0.03,False
+7317,"Handicraft workers in wood, basketry and related materials",1,0.1364,0.035,False
+9216,Fishery and aquaculture labourers,1,0.1356,0.83,False
+5142,Beauticians and related workers,6,0.1351,0.371,False
+7413,Electrical line installers and repairers,2,0.1348,0.05,False
+8151,"Fibre preparing, spinning and winding machine operators",1,0.1343,0.96,False
+4223,Telephone switchboard operators,2,0.1284,0.965,False
+3256,Medical assistants,1,0.1249,0.3,False
+5245,Service station attendants,2,0.1244,0.4295,False
+7411,Building and related electricians,1,0.1244,0.15,False
+7233,Agricultural and industrial machinery mechanics and repairers,8,0.1234,0.6216,False
+5243,Door to door salespersons,1,0.1219,0.94,False
+1324,"Supply, distribution and related managers",1,0.12,0.59,False
+7127,Air conditioning and refrigeration mechanics,2,0.1194,0.3265,False
+2611,Lawyers,1,0.1191,0.035,False
+4132,Data entry clerks,1,0.1188,0.99,False
+3341,Office supervisors,1,0.1187,0.014,False
+6122,Poultry producers,2,0.1149,0.76,False
+9411,Fast food preparers,2,0.1145,0.875,False
+5112,Transport conductors,2,0.1131,0.3895,False
+3212,Medical and pathology laboratory technicians,2,0.1119,0.685,False
+2411,Accountants,3,0.1089,0.9567,False
+8172,Wood processing plant operators,1,0.1076,0.86,False
+1345,Education managers,2,0.1048,0.0073,False
+7313,Jewellery and precious-metal workers,1,0.1031,0.95,False
+8331,Bus and tram drivers,4,0.1026,0.6122,False
+1412,Restaurant managers,1,0.101,0.083,False
+9214,Garden and horticultural labourers,1,0.0992,0.95,False
+7224,"Metal polishers, wheel grinders and tool sharpeners",2,0.0988,0.925,False
+9311,Mining and quarrying labourers,1,0.0975,0.37,False
+3355,Police inspectors and detectives,2,0.0974,0.1722,False
+1346,Financial and insurance services branch managers,2,0.0968,0.1145,False
+3339,Business services agents not elsewhere classified,7,0.0942,0.2977,False
+9624,Water and firewood collectors,1,0.0934,0.85,False
+8156,Shoemaking and related machine operators,1,0.0924,0.97,False
+1221,Sales and marketing managers,2,0.0898,0.0135,False
+8111,Miners and quarries,7,0.0887,0.6957,False
+9321,Hand packers,1,0.087,0.38,False
+7114,"Concrete placers, concrete finishers and related workers",3,0.0864,0.8833,False
+8154,"Bleaching, dyeing and fabric cleaning machine operators",1,0.086,0.97,False
+7221,"Blacksmiths, hammer smiths and forging press workers",1,0.0851,0.93,False
+2433,Technical and medical sales professionals (excluding ICT),2,0.0827,0.1625,False
+7532,Garment and related pattern-makers and cutters,3,0.0798,0.5316,False
+1112,Senior government officials,3,0.0795,0.0593,False
+3511,Information and communications technology operations technicians,1,0.0767,0.78,False
+7214,Structural-metal preparers and erectors,3,0.0763,0.7133,False
+8142,Plastic products machine operators,12,0.073,0.9058,False
+2230,Traditional and complementary medicine professionals,1,0.0705,0.02,False
+4321,Stock clerks,3,0.0701,0.8567,False
+9121,Hand launderers and pressers,1,0.0695,0.81,False
+2512,Software developers,2,0.0688,0.086,False
+6210,Forestry and related workers,5,0.0654,0.792,False
+4131,Typists and word processing operators,1,0.0647,0.81,False
+8143,Paper products machine operators,2,0.0647,0.81,False
+7213,Sheet-metal workers,3,0.0634,0.78,False
+6112,Tree and shrub crop growers,1,0.0632,0.57,False
+9122,Vehicle cleaners,1,0.0631,0.37,False
+1311,Agricultural and forestry production managers,1,0.0625,0.047,False
+3343,Administrative and executive secretaries,2,0.0616,0.68,False
+9312,Civil engineering labourers,2,0.0616,0.88,False
+9215,Forestry labourers,1,0.0615,0.87,False
+3132,Incinerator and water treatment plant operators,4,0.0607,0.5965,False
+3123,Construction supervisors,1,0.0603,0.17,False
+8183,"Packing, bottling and labelling machine operators",1,0.0576,0.98,False
+8114,"Cement, stone and other mineral products machine operators",4,0.0547,0.88,False
+1120,Managing directors and chief executives,2,0.0545,0.0875,False
+6222,Inland and coastal waters fishery workers,2,0.0545,0.7,False
+8131,Chemical products plant and machine operators,3,0.0533,0.8467,False
+2142,Civil engineers,1,0.0529,0.019,False
+7223,Metal working machine tool setters and operators,11,0.0528,0.8709,False
+1411,Hotel managers,1,0.0522,0.0039,False
+7115,Carpenters and joiners,1,0.0519,0.72,False
+3434,Chefs,2,0.0504,0.365,False
+8113,Well drillers and borers and related workers,6,0.0491,0.7717,False
+1211,Finance managers,1,0.0481,0.069,False
+7322,Printers,1,0.0463,0.83,False
+7421,Electronics mechanics and servicers,7,0.0443,0.5361,False
+4311,Accounting and bookkeeping clerks,2,0.044,0.97,False
+3112,Civil engineering technicians,5,0.0437,0.5647,False
+7323,Print finishing and binding workers,1,0.042,0.95,False
+3332,Conference and event planners,1,0.0387,0.037,False
+2652,"Musicians, singers and composers",2,0.038,0.0445,False
+7314,Potters and related workers,2,0.0377,0.4675,False
+3411,Police inspectors and detectives,6,0.0373,0.66,False
+2619,Legal professionals not elsewhere classified,1,0.0361,0.06,False
+7132,Spray painters and varnishers,2,0.0359,0.8,False
+2434,Information and communications technology sales professionals,3,0.0353,0.1097,False
+3412,Social work associate professionals,1,0.0347,0.13,False
+8212,Electrical and electronic equipment assemblers,5,0.0337,0.922,False
+6223,Deep-sea fishery workers,2,0.0318,0.7,False
+7123,Plasterers,3,0.0318,0.75,False
+4412,Mail carriers and sorting clerks,5,0.0316,0.86,False
+3431,Photographers,1,0.0298,0.021,False
+3259,Health associate professionals not elsewhere classified,7,0.0292,0.1339,False
+4323,Transport clerks,1,0.028,0.96,False
+7534,Upholsterers and related workers,1,0.0274,0.39,False
+9623,Meter readers and vending-machine collectors,2,0.0272,0.895,False
+2250,Veterinarians,1,0.0263,0.038,False
+3211,Medical imaging and therapeutic equipment technicians,3,0.026,0.2733,False
+5230,Cashiers and ticket clerks,2,0.0258,0.9,False
+8343,"Crane, hoist and related plant operators",5,0.0256,0.6538,False
+3521,Broadcasting and audio-visual technicians,5,0.0253,0.6,False
+2320,Vocational education teachers,2,0.0234,0.1344,False
+1212,Human resource managers,3,0.022,0.3239,False
+5246,Food service counter attendants,3,0.0218,0.93,False
+4224,Hotel receptionists,2,0.0215,0.575,False
+7315,"Glass makers, cutters, grinders and finishers",3,0.0212,0.8367,False
+4225,Enquiry clerks,2,0.0208,0.91,False
+2431,Advertising and marketing professionals,2,0.0207,0.324,False
+3113,Electrical engineering technicians,2,0.0205,0.825,False
+9629,Elementary workers not elsewhere classified,5,0.0205,0.79,False
+8122,"Metal finishing, plating and coating machine operators",3,0.0204,0.88,False
+7319,Handicraft workers not elsewhere classified,1,0.0198,0.035,False
+3142,Agricultural technicians,1,0.0197,0.97,False
+3342,Legal secretaries,1,0.0195,0.98,False
+3214,Medical and dental prosthetic technicians,3,0.0194,0.4745,False
+8312,"Railway brake, signal and switch operators",3,0.0192,0.563,False
+3240,Veterinary technicians and assistants,2,0.0191,0.4445,False
+8112,Mineral and stone processing plant operators,2,0.0191,0.89,False
+4313,Payroll clerks,1,0.0189,0.97,False
+7222,Toolmakers and related workers,6,0.0189,0.7733,False
+2151,Electrical engineers,1,0.0182,0.1,False
+5322,Home-based personal care workers,3,0.0177,0.402,False
+8157,Laundry machine operators,1,0.0177,0.71,False
+3432,Interior designers and decorators,3,0.0166,0.1692,False
+2521,Database designers and administrators,1,0.0165,0.03,False
+3352,Government tax and excise officials,1,0.0164,0.93,False
+3111,Chemical and physical science technicians,3,0.0158,0.6967,False
+2635,Social work and counseling professionals,8,0.0156,0.0432,False
+3321,Insurance representatives,3,0.0154,0.6617,False
+2144,Mechanical engineers,4,0.015,0.132,False
+2262,Pharmacists,1,0.015,0.012,False
+2642,Journalists,2,0.0146,0.0825,False
+2261,Dentists,4,0.0145,0.0215,False
+3323,Buyers,3,0.0143,0.6433,False
+3314,"Statistical, mathematical and related associate professionals",3,0.0141,0.7667,False
+8141,Rubber products machine operators,5,0.0141,0.822,False
+3115,Mechanical engineering technicians,4,0.014,0.4775,False
+1349,Professional services managers not elsewhere classified,1,0.0137,0.25,False
+2643,"Translators, interpreters and other linguists",2,0.0136,0.21,False
+3422,"Sports coaches, instructors and officials",3,0.0134,0.3743,False
+5411,Fire-fighters,2,0.0133,0.0868,False
+3522,Telecommunications engineering technicians,1,0.0131,0.84,False
+1330,Information and communications technology service managers,1,0.0126,0.035,False
+2163,Product and garment designers,2,0.0125,0.029,False
+4322,Production clerks,1,0.0121,0.88,False
+2656,"Announcers on radio, television and other media",3,0.012,0.2957,False
+3134,Petroleum and natural gas refining plant operators,4,0.012,0.825,False
+3312,Credit and loans officers,2,0.0118,0.51,False
+7535,"Pelt dressers, tanners and fell mongers",1,0.0117,0.41,False
+2145,Chemical engineers,1,0.0116,0.017,False
+2267,Optometrists and ophthalmic opticians,1,0.0115,0.14,False
+2413,Financial analysts,3,0.0115,0.46,False
+4120,Secretaries (general),1,0.0113,0.96,False
+4226,Receptionists (general),1,0.0112,0.96,False
+7316,"Sign writers, decorative painters, engravers and etchers",2,0.0112,0.95,False
+8181,Glass and ceramics plant operators,6,0.0111,0.8133,False
+3131,Power production plant operators,4,0.0109,0.614,False
+9612,Refuse sorters,1,0.0106,0.93,False
+8121,Metal processing plant operators,5,0.0102,0.88,False
+3118,Draughts persons,4,0.0101,0.513,False
+3331,Clearing and forwarding agents,2,0.0101,0.985,False
+1322,Mining managers,1,0.01,0.25,False
+1222,Advertising and public relations managers,2,0.0098,0.027,False
+8211,Mechanical machinery assemblers,2,0.0098,0.805,False
+3257,Environmental and occupational health inspectors and associates,4,0.0097,0.5297,False
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments",1,0.0095,0.94,False
+2166,Graphic and multimedia designers,2,0.0092,0.0485,False
+4214,Debt-collectors and related workers,1,0.0091,0.95,False
+5113,Travel guides,3,0.0091,0.3477,False
+3423,Fitness and recreation instructors and program leaders,4,0.0088,0.0745,False
+1342,Health services managers,1,0.0085,0.0073,False
+2161,Building architects,1,0.0085,0.018,False
+2514,Applications programmers,1,0.0083,0.48,False
+5249,Sales workers not elsewhere classified,1,0.0083,0.97,False
+2153,Telecommunications engineers,1,0.0081,0.025,False
+5321,Health care assistants,1,0.008,0.47,False
+9412,Kitchen helpers,3,0.0079,0.85,False
+2511,Systems analysts,2,0.0075,0.0107,False
+3351,Customs and border inspectors,3,0.0074,0.0608,False
+3514,Web technicians,1,0.0072,0.03,False
+3251,Dental assistants and therapists,2,0.007,0.595,False
+1219,Business services and administration managers not elsewhere classified,5,0.0067,0.355,False
+6129,Animal producers not elsewhere classified,2,0.0067,0.76,False
+7122,Floor layers and tile setters,4,0.0067,0.82,False
+7515,Food and beverage tasters and graders,2,0.0067,0.675,False
+7521,Wood treaters,2,0.0067,0.66,False
+4411,Library clerks,2,0.0066,0.97,False
+2622,Librarians and related information professionals,2,0.0065,0.52,False
+7113,"Stonemasons, stone cutters, splitters and carvers",2,0.0065,0.86,False
+3421,Athletes and sports players,1,0.0063,0.28,False
+5311,Child care workers,2,0.0063,0.08,False
+4312,"Statistical, finance and insurance clerks",5,0.0061,0.968,False
+1312,Aquaculture and fisheries production managers,1,0.0059,0.047,False
+3252,Medical records and health information technicians,1,0.0059,0.91,False
+8189,Stationary plant and machine operators not elsewhere classified,4,0.0056,0.9225,False
+9331,Hand and pedal vehicle drivers,1,0.0055,0.94,False
+2651,Visual artists,2,0.0054,0.0385,False
+2141,Industrial and production engineers,1,0.0053,0.029,False
+4222,Contact centre information clerks,2,0.0053,0.755,False
+4221,Travel consultants and clerks,3,0.0052,0.2613,False
+3116,Chemical engineering technicians,1,0.0051,0.24,False
+7543,Product graders and testers (excluding foods and beverages),1,0.0051,0.98,False
+7513,Dairy-products makers,2,0.0049,0.79,False
+8344,Lifting truck operators,2,0.0049,0.4795,False
+1431,"Sports, recreation and cultural centre managers",2,0.0046,0.1705,False
+1213,Policy and planning managers,1,0.0045,0.25,False
+2421,Management and organization analysts,2,0.0044,0.071,False
+7211,Metal moulders and core makers,2,0.0042,0.81,False
+7215,Riggers and cable splicers,1,0.0042,0.89,False
+8350,Ships' deck crews and related workers,2,0.0042,0.725,False
+7514,"Fruit, vegetable and related preservers",1,0.004,0.61,False
+3333,Employment agents and contractors,1,0.0038,0.97,False
+7516,Tobacco preparers and tobacco products makers,3,0.0038,0.7467,False
+1223,Research and development managers,2,0.0036,0.0175,False
+5165,Driving instructors,1,0.0036,0.13,False
+8171,Pulp and papermaking plant operators,2,0.0036,0.74,False
+2351,Education methods specialists,1,0.0033,0.0042,False
+7232,Aircraft engine mechanics and repairers,2,0.0033,0.3565,False
+5111,Travel attendants and travel stewards,3,0.0032,0.3763,False
+2342,Early childhood educators,2,0.0031,0.0787,False
+8219,Assemblers not elsewhere classified,1,0.0031,0.97,False
+3135,Metal production process controllers,1,0.003,0.88,False
+8182,Steam engine and boiler operators,1,0.003,0.89,False
+2269,Health professionals not elsewhere classified,5,0.0029,0.0116,False
+3114,Electronics engineering technicians,1,0.0029,0.84,False
+3121,Mining supervisors,1,0.0029,0.17,False
+3143,Forestry technicians,1,0.0028,0.42,False
+3353,Government social benefits officials,2,0.0028,0.39,False
+7124,Insulation workers,2,0.0028,0.735,False
+2111,Physicists and astronomers,2,0.0027,0.0705,False
+2353,Other language teachers,2,0.0027,0.16,False
+6123,Apiarists and sericulturists,2,0.0027,0.76,False
+2641,Authors and related writers,3,0.0025,0.3277,False
+3354,Government licensing officials,2,0.0025,0.27,False
+4229,Client information workers not elsewhere classified,1,0.0024,0.7,False
+2263,Environmental and occupational health and hygiene professionals,2,0.0022,0.1075,False
+5169,Personal services workers not elsewhere classified,4,0.0022,0.279,False
+3254,Dispensing opticians,1,0.0021,0.71,False
+2612,Judges,2,0.0018,0.52,False
+3139,Process control technicians not elsewhere classified,1,0.0018,0.36,False
+3311,Securities and finance dealers and brokers,2,0.0017,0.0455,False
+4419,Clerical support workers not elsewhere classified,2,0.0016,0.92,False
+5329,Personal care workers in health services not elsewhere classified,5,0.0016,0.578,False
+5152,Domestic housekeepers,1,0.0015,0.94,False
+7121,Roofers,1,0.0015,0.9,False
+9611,Garbage and recycling collectors,2,0.0015,0.4795,False
+2352,Special needs teachers,2,0.0014,0.0118,False
+5132,Bartenders,1,0.0014,0.77,False
+8342,Earthmoving and related plant operators,5,0.0014,0.892,False
+1344,Social welfare managers,1,0.0013,0.0067,False
+5164,Pet groomers and animal care workers,4,0.0013,0.464,False
+5413,Prison guards,2,0.0013,0.3125,False
+2146,"Mining engineers, metallurgists and related professionals",4,0.0012,0.0855,False
+2265,Dieticians and nutritionists,1,0.001,0.0039,False
+7119,Building frame and related trades workers not elsewhere classified,3,0.001,0.5433,False
+2432,Public relations professionals,1,0.0009,0.18,False
+3435,Other artistic and cultural associate professionals,1,0.0009,0.61,False
+4227,Survey and market research interviewers,1,0.0009,0.94,False
+4416,Personnel clerks,1,0.0009,0.9,False
+7311,Precision-instrument makers and repairers,4,0.0009,0.5583,False
+7321,Pre-press technicians,2,0.0009,0.565,False
+2149,Engineering professionals not elsewhere classified,5,0.0008,0.034,False
+2152,Electronics engineers,2,0.0008,0.1225,False
+2165,Cartographers and surveyors,2,0.0008,0.63,False
+2412,Financial and investment advisers,2,0.0008,0.405,False
+2522,Systems administrators,1,0.0008,0.03,False
+3153,Aircraft pilots and related associate professionals,3,0.0008,0.253,False
+4212,"Bookmakers, croupiers and related gaming workers",5,0.0008,0.616,False
+4415,Filing and copying clerks,2,0.0008,0.945,False
+5244,Contact centre salespersons,1,0.0008,0.99,False
+7542,Shot firers and blasters,1,0.0008,0.48,False
+8132,Photographic products machine operators,1,0.0008,0.99,False
+1113,Traditional chiefs and heads of village,1,0.0007,0.015,False
+2143,Environmental engineers,1,0.0006,0.018,False
+2132,"Farming, forestry and fisheries advisers",3,0.0005,0.0122,False
+3255,Physiotherapy technicians and assistants,3,0.0004,0.1927,False
+3359,Regulatory government associate professionals not elsewhere classified,1,0.0004,0.94,False
+5242,Sales demonstrators,1,0.0004,0.51,False
+7523,Woodworking-machine tool setters and operators,1,0.0004,0.97,False
+2355,Other arts teachers,1,0.0002,0.13,False

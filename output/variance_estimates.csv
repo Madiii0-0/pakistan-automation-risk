@@ -1,0 +1,5 @@
+statistic,estimate,se,ci_lower,ci_upper,cv_pct,singleton_strata,unit
+"High-risk share, total (>0.7, mean variant)",58.31618,0.29828,57.73155,58.90082,0.511,0,%
+"Weighted mean probability, male",0.61308,0.00168,0.60979,0.61637,0.274,0,
+"Weighted mean probability, female",0.65573,0.00243,0.65097,0.66049,0.37,0,
+Gender gap in weighted mean probability,0.04265,0.00265,0.03746,0.04785,6.212,0,

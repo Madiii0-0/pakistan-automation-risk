@@ -1,0 +1,341 @@
+{
+  "headline_scenario_b": {
+    "19th_ICLS": {
+      "Male|min_prob": {
+        "scoreable_M": 58.359,
+        "unscoreable_M": 1.123,
+        "unscoreable_pct": 1.888,
+        "high_risk_pct": 25.564,
+        "medium_risk_pct": 38.862,
+        "low_risk_pct": 35.575,
+        "weighted_mean_prob": 0.4695
+      },
+      "Male|mean_prob": {
+        "scoreable_M": 58.359,
+        "unscoreable_M": 1.123,
+        "unscoreable_pct": 1.888,
+        "high_risk_pct": 54.382,
+        "medium_risk_pct": 24.62,
+        "low_risk_pct": 20.999,
+        "weighted_mean_prob": 0.6131
+      },
+      "Male|max_prob": {
+        "scoreable_M": 58.359,
+        "unscoreable_M": 1.123,
+        "unscoreable_pct": 1.888,
+        "high_risk_pct": 69.594,
+        "medium_risk_pct": 11.069,
+        "low_risk_pct": 19.337,
+        "weighted_mean_prob": 0.7317
+      },
+      "Female|min_prob": {
+        "scoreable_M": 17.351,
+        "unscoreable_M": 0.492,
+        "unscoreable_pct": 2.756,
+        "high_risk_pct": 18.66,
+        "medium_risk_pct": 65.382,
+        "low_risk_pct": 15.957,
+        "weighted_mean_prob": 0.5383
+      },
+      "Female|mean_prob": {
+        "scoreable_M": 17.351,
+        "unscoreable_M": 0.492,
+        "unscoreable_pct": 2.756,
+        "high_risk_pct": 71.547,
+        "medium_risk_pct": 14.234,
+        "low_risk_pct": 14.219,
+        "weighted_mean_prob": 0.6557
+      },
+      "Female|max_prob": {
+        "scoreable_M": 17.351,
+        "unscoreable_M": 0.492,
+        "unscoreable_pct": 2.756,
+        "high_risk_pct": 73.421,
+        "medium_risk_pct": 12.61,
+        "low_risk_pct": 13.969,
+        "weighted_mean_prob": 0.7695
+      },
+      "Total|min_prob": {
+        "scoreable_M": 75.71,
+        "unscoreable_M": 1.615,
+        "unscoreable_pct": 2.088,
+        "high_risk_pct": 23.982,
+        "medium_risk_pct": 44.94,
+        "low_risk_pct": 31.079,
+        "weighted_mean_prob": 0.4853
+      },
+      "Total|mean_prob": {
+        "scoreable_M": 75.71,
+        "unscoreable_M": 1.615,
+        "unscoreable_pct": 2.088,
+        "high_risk_pct": 58.316,
+        "medium_risk_pct": 22.24,
+        "low_risk_pct": 19.445,
+        "weighted_mean_prob": 0.6229
+      },
+      "Total|max_prob": {
+        "scoreable_M": 75.71,
+        "unscoreable_M": 1.615,
+        "unscoreable_pct": 2.088,
+        "high_risk_pct": 70.471,
+        "medium_risk_pct": 11.422,
+        "low_risk_pct": 18.107,
+        "weighted_mean_prob": 0.7403
+      }
+    },
+    "13th_ICLS": {
+      "Male|min_prob": {
+        "scoreable_M": 58.359,
+        "unscoreable_M": 2.119,
+        "unscoreable_pct": 3.503,
+        "high_risk_pct": 25.564,
+        "medium_risk_pct": 38.862,
+        "low_risk_pct": 35.575,
+        "weighted_mean_prob": 0.4695
+      },
+      "Male|mean_prob": {
+        "scoreable_M": 58.359,
+        "unscoreable_M": 2.119,
+        "unscoreable_pct": 3.503,
+        "high_risk_pct": 54.382,
+        "medium_risk_pct": 24.62,
+        "low_risk_pct": 20.999,
+        "weighted_mean_prob": 0.6131
+      },
+      "Male|max_prob": {
+        "scoreable_M": 58.359,
+        "unscoreable_M": 2.119,
+        "unscoreable_pct": 3.503,
+        "high_risk_pct": 69.594,
+        "medium_risk_pct": 11.069,
+        "low_risk_pct": 19.337,
+        "weighted_mean_prob": 0.7317
+      },
+      "Female|min_prob": {
+        "scoreable_M": 17.351,
+        "unscoreable_M": 1.983,
+        "unscoreable_pct": 10.255,
+        "high_risk_pct": 18.66,
+        "medium_risk_pct": 65.382,
+        "low_risk_pct": 15.957,
+        "weighted_mean_prob": 0.5383
+      },
+      "Female|mean_prob": {
+        "scoreable_M": 17.351,
+        "unscoreable_M": 1.983,
+        "unscoreable_pct": 10.255,
+        "high_risk_pct": 71.547,
+        "medium_risk_pct": 14.234,
+        "low_risk_pct": 14.219,
+        "weighted_mean_prob": 0.6557
+      },
+      "Female|max_prob": {
+        "scoreable_M": 17.351,
+        "unscoreable_M": 1.983,
+        "unscoreable_pct": 10.255,
+        "high_risk_pct": 73.421,
+        "medium_risk_pct": 12.61,
+        "low_risk_pct": 13.969,
+        "weighted_mean_prob": 0.7695
+      },
+      "Total|min_prob": {
+        "scoreable_M": 75.71,
+        "unscoreable_M": 4.101,
+        "unscoreable_pct": 5.139,
+        "high_risk_pct": 23.982,
+        "medium_risk_pct": 44.94,
+        "low_risk_pct": 31.079,
+        "weighted_mean_prob": 0.4853
+      },
+      "Total|mean_prob": {
+        "scoreable_M": 75.71,
+        "unscoreable_M": 4.101,
+        "unscoreable_pct": 5.139,
+        "high_risk_pct": 58.316,
+        "medium_risk_pct": 22.24,
+        "low_risk_pct": 19.445,
+        "weighted_mean_prob": 0.6229
+      },
+      "Total|max_prob": {
+        "scoreable_M": 75.71,
+        "unscoreable_M": 4.101,
+        "unscoreable_pct": 5.139,
+        "high_risk_pct": 70.471,
+        "medium_risk_pct": 11.422,
+        "low_risk_pct": 18.107,
+        "weighted_mean_prob": 0.7403
+      }
+    }
+  },
+  "sensitivity_scenario_a": {
+    "19th_ICLS": {
+      "Male|min_prob": {
+        "scoreable_M": 55.919,
+        "unscoreable_M": 3.562,
+        "unscoreable_pct": 5.989,
+        "high_risk_pct": 22.317,
+        "medium_risk_pct": 40.557,
+        "low_risk_pct": 37.126,
+        "weighted_mean_prob": 0.4521
+      },
+      "Male|mean_prob": {
+        "scoreable_M": 55.919,
+        "unscoreable_M": 3.562,
+        "unscoreable_pct": 5.989,
+        "high_risk_pct": 52.392,
+        "medium_risk_pct": 25.694,
+        "low_risk_pct": 21.915,
+        "weighted_mean_prob": 0.6019
+      },
+      "Male|max_prob": {
+        "scoreable_M": 55.919,
+        "unscoreable_M": 3.562,
+        "unscoreable_pct": 5.989,
+        "high_risk_pct": 68.268,
+        "medium_risk_pct": 11.552,
+        "low_risk_pct": 20.18,
+        "weighted_mean_prob": 0.7256
+      },
+      "Female|min_prob": {
+        "scoreable_M": 16.154,
+        "unscoreable_M": 1.69,
+        "unscoreable_pct": 9.469,
+        "high_risk_pct": 12.629,
+        "medium_risk_pct": 70.231,
+        "low_risk_pct": 17.141,
+        "weighted_mean_prob": 0.5137
+      },
+      "Female|mean_prob": {
+        "scoreable_M": 16.154,
+        "unscoreable_M": 1.69,
+        "unscoreable_pct": 9.469,
+        "high_risk_pct": 69.437,
+        "medium_risk_pct": 15.29,
+        "low_risk_pct": 15.273,
+        "weighted_mean_prob": 0.6398
+      },
+      "Female|max_prob": {
+        "scoreable_M": 16.154,
+        "unscoreable_M": 1.69,
+        "unscoreable_pct": 9.469,
+        "high_risk_pct": 71.45,
+        "medium_risk_pct": 13.545,
+        "low_risk_pct": 15.005,
+        "weighted_mean_prob": 0.762
+      },
+      "Total|min_prob": {
+        "scoreable_M": 72.073,
+        "unscoreable_M": 5.252,
+        "unscoreable_pct": 6.792,
+        "high_risk_pct": 20.146,
+        "medium_risk_pct": 47.207,
+        "low_risk_pct": 32.647,
+        "weighted_mean_prob": 0.4659
+      },
+      "Total|mean_prob": {
+        "scoreable_M": 72.073,
+        "unscoreable_M": 5.252,
+        "unscoreable_pct": 6.792,
+        "high_risk_pct": 56.212,
+        "medium_risk_pct": 23.362,
+        "low_risk_pct": 20.426,
+        "weighted_mean_prob": 0.6104
+      },
+      "Total|max_prob": {
+        "scoreable_M": 72.073,
+        "unscoreable_M": 5.252,
+        "unscoreable_pct": 6.792,
+        "high_risk_pct": 68.981,
+        "medium_risk_pct": 11.999,
+        "low_risk_pct": 19.02,
+        "weighted_mean_prob": 0.7338
+      }
+    },
+    "13th_ICLS": {
+      "Male|min_prob": {
+        "scoreable_M": 55.919,
+        "unscoreable_M": 4.558,
+        "unscoreable_pct": 7.536,
+        "high_risk_pct": 22.317,
+        "medium_risk_pct": 40.557,
+        "low_risk_pct": 37.126,
+        "weighted_mean_prob": 0.4521
+      },
+      "Male|mean_prob": {
+        "scoreable_M": 55.919,
+        "unscoreable_M": 4.558,
+        "unscoreable_pct": 7.536,
+        "high_risk_pct": 52.392,
+        "medium_risk_pct": 25.694,
+        "low_risk_pct": 21.915,
+        "weighted_mean_prob": 0.6019
+      },
+      "Male|max_prob": {
+        "scoreable_M": 55.919,
+        "unscoreable_M": 4.558,
+        "unscoreable_pct": 7.536,
+        "high_risk_pct": 68.268,
+        "medium_risk_pct": 11.552,
+        "low_risk_pct": 20.18,
+        "weighted_mean_prob": 0.7256
+      },
+      "Female|min_prob": {
+        "scoreable_M": 16.154,
+        "unscoreable_M": 3.18,
+        "unscoreable_pct": 16.45,
+        "high_risk_pct": 12.629,
+        "medium_risk_pct": 70.231,
+        "low_risk_pct": 17.141,
+        "weighted_mean_prob": 0.5137
+      },
+      "Female|mean_prob": {
+        "scoreable_M": 16.154,
+        "unscoreable_M": 3.18,
+        "unscoreable_pct": 16.45,
+        "high_risk_pct": 69.437,
+        "medium_risk_pct": 15.29,
+        "low_risk_pct": 15.273,
+        "weighted_mean_prob": 0.6398
+      },
+      "Female|max_prob": {
+        "scoreable_M": 16.154,
+        "unscoreable_M": 3.18,
+        "unscoreable_pct": 16.45,
+        "high_risk_pct": 71.45,
+        "medium_risk_pct": 13.545,
+        "low_risk_pct": 15.005,
+        "weighted_mean_prob": 0.762
+      },
+      "Total|min_prob": {
+        "scoreable_M": 72.073,
+        "unscoreable_M": 7.738,
+        "unscoreable_pct": 9.696,
+        "high_risk_pct": 20.146,
+        "medium_risk_pct": 47.207,
+        "low_risk_pct": 32.647,
+        "weighted_mean_prob": 0.4659
+      },
+      "Total|mean_prob": {
+        "scoreable_M": 72.073,
+        "unscoreable_M": 7.738,
+        "unscoreable_pct": 9.696,
+        "high_risk_pct": 56.212,
+        "medium_risk_pct": 23.362,
+        "low_risk_pct": 20.426,
+        "weighted_mean_prob": 0.6104
+      },
+      "Total|max_prob": {
+        "scoreable_M": 72.073,
+        "unscoreable_M": 7.738,
+        "unscoreable_pct": 9.696,
+        "high_risk_pct": 68.981,
+        "medium_risk_pct": 11.999,
+        "low_risk_pct": 19.02,
+        "weighted_mean_prob": 0.7338
+      }
+    }
+  },
+  "appendix_unmatched_total_employment_M": 1.5175,
+  "appendix_unmatched_share_pct": 1.9625,
+  "note": "weighted_mean_prob is an internal Pakistan-occupation-structure statistic; not to be set against Frey-Osborne's headline 47% US figure, which is a differently-weighted (US employment structure) statistic over the same underlying 702 occupation scores."
+}

@@ -1,0 +1,21 @@
+occ_code,title,employment_millions,mean_prob,manually_assigned
+6130,Mixed crop and animal producers,11.8446,0.76,False
+9313,Building construction labourers,5.4495,0.8,False
+6121,Livestock and dairy producers,4.5692,0.76,False
+7531,"Tailors, dressmakers, furriers and hatters",2.9394,0.84,False
+9211,Crop farm labourers,2.9171,0.87,True
+5223,Shop sales assistants,1.4681,0.95,False
+9329,Manufacturing labourers not elsewhere classified,1.247,0.8133,False
+7112,Bricklayers and related workers,1.0827,0.82,False
+5212,Street food salespersons,0.7896,0.9,False
+7533,"Sewing, embroidery and related workers",0.7788,0.8233,False
+4110,General office clerks,0.5731,0.97,False
+5414,Security guards,0.5716,0.895,False
+5131,Waiters,0.4752,0.9,False
+7522,Cabinet-makers and related workers,0.461,0.915,False
+8341,Mobile farm and forestry plant operators,0.3979,0.79,False
+5211,Stall and market salespersons,0.3974,0.94,False
+7212,Welders and flame cutters,0.3825,0.775,False
+9213,Mixed crop and livestock farm labourers,0.3721,0.87,True
+9520,Street vendors (excluding food),0.3637,0.94,False
+5120,Cooks,0.3582,0.732,False

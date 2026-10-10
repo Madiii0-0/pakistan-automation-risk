@@ -1,0 +1,21 @@
+occ_code,title,employment_millions,mean_prob,min_prob,max_prob,manually_assigned
+4132,Data entry clerks,0.1188,0.99,0.99,0.99,False
+5244,Contact centre salespersons,0.0008,0.99,0.99,0.99,False
+8132,Photographic products machine operators,0.0008,0.99,0.99,0.99,False
+3331,Clearing and forwarding agents,0.0101,0.985,0.98,0.99,False
+3313,Accounting associate professionals,0.1411,0.98,0.98,0.98,False
+8183,"Packing, bottling and labelling machine operators",0.0576,0.98,0.98,0.98,False
+3342,Legal secretaries,0.0195,0.98,0.98,0.98,False
+7543,Product graders and testers (excluding foods and beverages),0.0051,0.98,0.98,0.98,False
+4110,General office clerks,0.5731,0.97,0.96,0.98,False
+8156,Shoemaking and related machine operators,0.0924,0.97,0.97,0.97,False
+8154,"Bleaching, dyeing and fabric cleaning machine operators",0.086,0.97,0.97,0.97,False
+4311,Accounting and bookkeeping clerks,0.044,0.97,0.96,0.98,False
+3142,Agricultural technicians,0.0197,0.97,0.97,0.97,False
+4313,Payroll clerks,0.0189,0.97,0.97,0.97,False
+5249,Sales workers not elsewhere classified,0.0083,0.97,0.97,0.97,False
+4411,Library clerks,0.0066,0.97,0.95,0.99,False
+3333,Employment agents and contractors,0.0038,0.97,0.97,0.97,False
+8219,Assemblers not elsewhere classified,0.0031,0.97,0.97,0.97,False
+7523,Woodworking-machine tool setters and operators,0.0004,0.97,0.97,0.97,False
+4312,"Statistical, finance and insurance clerks",0.0061,0.968,0.92,0.99,False

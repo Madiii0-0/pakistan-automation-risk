@@ -1,0 +1,4 @@
+threshold,total_high_risk_pct,total_scoreable_M,male_high_risk_pct,male_scoreable_M,female_high_risk_pct,female_scoreable_M,male_minus_female_gap_pp
+0.6,63.179,75.7098,59.498,58.3585,75.56,17.3513,-16.062
+0.7,58.316,75.7098,54.382,58.3585,71.547,17.3513,-17.165
+0.8,26.628,75.7098,27.915,58.3585,22.297,17.3513,5.618

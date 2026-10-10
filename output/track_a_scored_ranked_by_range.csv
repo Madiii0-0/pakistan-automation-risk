@@ -1,0 +1,41 @@
+code,title,employment_2025_total_K,min,mean,max,range,sd,n_soc
+73,Handicraft and Printing Workers,545.046,0.003,0.704,0.99,0.987,0.3511,17
+24,Business and Administration Professionals,265.343,0.0041,0.3606,0.99,0.9859,0.3569,19
+33,Business and Administration Associate Professionals,1591.198,0.0044,0.6094,0.99,0.9856,0.3613,45
+75,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",4867.286,0.0049,0.7355,0.99,0.9851,0.2778,35
+34,"Legal, Social, Cultural and Related Associate Professionals",273.278,0.0055,0.381,0.99,0.9845,0.3595,24
+72,"Metal, Machinery and Related Trades Workers",1840.88,0.003,0.7676,0.98,0.977,0.1907,48
+32,Health Associate Professionals,958.908,0.0035,0.3835,0.97,0.9665,0.3405,32
+31,Science and Engineering Associate Professionals,431.219,0.0036,0.5341,0.97,0.9664,0.3229,48
+51,Personal Service Workers,1971.236,0.0061,0.5485,0.97,0.9639,0.3551,32
+52,Sales Workers,9783.279,0.029,0.767,0.99,0.961,0.3058,17
+12,Administrative and Commercial Managers,184.408,0.0055,0.2083,0.96,0.9545,0.3252,14
+83,Drivers and Mobile Plant Operators,4240.786,0.029,0.7824,0.98,0.951,0.2202,29
+35,Information and Communications Technicians,149.43,0.03,0.5813,0.98,0.95,0.3161,8
+54,Protective Services Workers,1277.178,0.0036,0.4027,0.95,0.9464,0.325,15
+96,Refuse Workers and Other Elementary Workers,737.118,0.029,0.7678,0.97,0.941,0.2493,14
+71,Building and Related Trades Workers (excluding Electricians),1937.126,0.003,0.7025,0.94,0.937,0.243,30
+74,Electrical and Electronics Trades Workers,1086.516,0.003,0.5948,0.93,0.927,0.2787,21
+44,Other Clerical Support Workers,41.452,0.076,0.8351,0.99,0.914,0.2214,15
+42,Customer Services Clerks,371.036,0.075,0.6917,0.98,0.905,0.3149,20
+26,"Legal, Social and Cultural Professionals",605.297,0.0031,0.1737,0.89,0.8869,0.2376,46
+21,Science and Engineering Professionals,148.953,0.0045,0.1239,0.88,0.8755,0.186,53
+93,"Labourers in Mining, Construction, Manufacturing and Transport",7376.244,0.066,0.7019,0.94,0.874,0.2372,19
+53,Personal Care Workers,33.7,0.076,0.4736,0.78,0.704,0.2357,11
+81,Stationary Plant and Machine Operators,2038.471,0.37,0.8368,0.99,0.62,0.1436,57
+13,Production and Specialized Services Managers,728.012,0.0046,0.0997,0.59,0.5854,0.1573,13
+25,Information and Communications Technology Professionals,220.844,0.0065,0.1048,0.48,0.4735,0.1578,7
+91,Cleaners and Helpers,1390.259,0.37,0.672,0.83,0.46,0.1647,5
+62,"Market-Oriented Skilled Forestry, Fishery and Hunting Workers",145.669,0.57,0.8137,0.97,0.4,0.1179,8
+61,Market-oriented Skilled Agricultural Workers,20561.36,0.57,0.715,0.95,0.38,0.1584,4
+43,Numerical and Material Recording Clerks,179.284,0.64,0.9354,0.99,0.35,0.09,13
+23,Teaching Professionals,3007.898,0.0042,0.0699,0.26,0.2558,0.0863,14
+82,Assemblers,46.713,0.73,0.8987,0.98,0.25,0.0952,8
+11,"Chief Executives, Senior Officials and Legislators",144.643,0.003,0.0886,0.25,0.247,0.0993,5
+14,"Hospitality, Retail and Other Services Managers",729.904,0.0039,0.1176,0.25,0.2461,0.0827,5
+41,General and Keyboard Clerks,768.167,0.81,0.94,0.99,0.18,0.066,5
+94,Food Preparation Assistants,120.345,0.77,0.86,0.94,0.17,0.0626,5
+22,Health Professionals,427.39,0.0028,0.0381,0.17,0.1672,0.051,19
+92,"Agricultural, Forestry and Fishery Labourers",3806.835,0.83,0.8833,0.95,0.12,0.0499,3
+63,"Subsistence Farmers, Fishers, Hunters and Gatherers",2213.27,0.77,0.8,0.83,0.06,0.03,2
+95,Street and Related Sales and Service Workers,362.63,0.94,0.94,0.94,0.0,0.0,1

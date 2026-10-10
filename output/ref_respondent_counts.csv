@@ -1,0 +1,346 @@
+occ_code,title,employment_millions,mean_prob,matched_soc_count,n_unweighted,n_psu,below_30
+6130,Mixed crop and animal producers,11.8446,0.76,2,16662,2187,
+5221,Shop keepers,6.5781,0.16,1,8172,2901,
+9313,Building construction labourers,5.4495,0.8,7,7374,2447,
+6121,Livestock and dairy producers,4.5692,0.76,2,5763,1741,
+6111,Field crop and vegetable growers,4.3301,0.57,1,6648,1511,
+7531,"Tailors, dressmakers, furriers and hatters",2.9394,0.84,1,3550,1729,
+9211,Crop farm labourers,2.9171,0.87,0,3898,1179,
+8322,"Car, taxi and van drivers",1.7571,0.5678,5,2287,1454,
+5223,Shop sales assistants,1.4681,0.95,2,1715,1104,
+8321,Motorcycle drivers,1.4082,0.4845,2,1676,1180,
+2341,Primary school teachers,1.3093,0.0872,2,1733,1180,
+9329,Manufacturing labourers not elsewhere classified,1.247,0.8133,3,1462,749,
+7112,Bricklayers and related workers,1.0827,0.82,2,1350,819,
+2330,Secondary education teachers,1.0717,0.0078,1,1388,994,
+5212,Street food salespersons,0.7896,0.9,2,891,610,
+7533,"Sewing, embroidery and related workers",0.7788,0.8233,3,972,567,
+7231,Motor vehicle mechanics and repairers,0.7709,0.6453,10,943,703,
+9111,Domestic cleaners and helpers,0.7204,0.69,1,826,600,
+5412,Police officers,0.6981,0.2241,3,1003,716,
+8332,Heavy truck and lorry drivers,0.5989,0.4095,2,866,591,
+7412,Electrical mechanics and fitters,0.5866,0.6441,13,664,522,
+4110,General office clerks,0.5731,0.97,2,727,583,
+5414,Security guards,0.5716,0.895,2,685,546,
+9112,"Cleaners and helpers in offices, hotels and other establishments",0.5695,0.5733,3,734,583,
+5141,Hairdressers,0.5423,0.3287,3,643,459,
+2359,Teaching professionals not elsewhere classified,0.4823,0.0085,1,611,437,
+5131,Waiters,0.4752,0.9,2,650,461,
+7522,Cabinet-makers and related workers,0.461,0.915,4,526,359,
+5222,Shop supervisors,0.4253,0.28,1,527,394,
+1420,Retail and wholesale trade managers,0.4198,0.16,1,495,396,
+8341,Mobile farm and forestry plant operators,0.3979,0.79,1,552,419,
+5211,Stall and market salespersons,0.3974,0.94,1,493,344,
+7212,Welders and flame cutters,0.3825,0.775,2,439,337,
+3324,Trade brokers,0.3812,0.3603,3,481,341,
+5153,Building caretakers,0.3762,0.66,1,522,413,
+9213,Mixed crop and livestock farm labourers,0.3721,0.87,0,496,231,
+9333,Freight handlers,0.3643,0.514,4,478,316,
+9520,Street vendors (excluding food),0.3637,0.94,1,393,269,
+5120,Cooks,0.3582,0.732,5,479,377,
+3334,Real estate agents and property managers,0.3514,0.6787,4,393,296,
+9212,Livestock farm labourers,0.3477,0.87,0,485,323,
+7131,Painters and related workers,0.3422,0.81,2,406,303,
+6114,Mixed crop growers,0.3357,0.57,1,525,220,
+2636,Religious professionals,0.3287,0.0166,2,471,403,
+8160,Food and related products machine operators,0.3173,0.816,5,399,311,
+8152,Weaving and knitting machine operators,0.3149,0.73,1,349,206,
+8153,Sewing machine operators,0.3089,0.89,1,355,195,
+9621,"Messengers, package deliverers and luggage porters",0.2768,0.885,2,307,201,
+7234,Bicycle and related repairers,0.2589,0.4715,2,333,265,
+7512,"Bakers, pastry-cooks and confectionery makers",0.2534,0.89,1,301,211,
+7511,"Butchers, fishmongers and related food preparers",0.253,0.845,4,316,240,
+3221,Nursing associate professionals,0.224,0.058,1,291,253,
+7422,Information and communications technology installers and servicers,0.2184,0.5833,7,249,227,
+7126,Plumbers and pipe fitters,0.1934,0.485,2,227,195,
+3322,Commercial sales representatives,0.1909,0.3917,3,209,169,
+3213,Pharmaceutical technicians and assistants,0.1875,0.92,1,246,218,
+4211,Bank tellers and related clerks,0.1654,0.965,2,186,171,
+6113,"Gardeners, horticultural and nursery growers",0.1604,0.67,2,188,165,
+1323,Construction managers,0.1539,0.071,1,192,158,
+1439,Services managers not elsewhere classified,0.1524,0.25,1,176,155,
+7536,Shoemakers and related workers,0.1486,0.52,1,169,133,
+3122,Manufacturing supervisors,0.144,0.016,1,165,141,
+3313,Accounting associate professionals,0.1411,0.98,1,181,163,
+7318,"Handicraft workers in textile, leather and related materials",0.14,0.52,1,158,95,
+1321,Manufacturing managers,0.1378,0.03,1,156,125,
+7317,"Handicraft workers in wood, basketry and related materials",0.1364,0.035,1,159,93,
+9216,Fishery and aquaculture labourers,0.1356,0.83,1,222,51,
+5142,Beauticians and related workers,0.1351,0.371,6,147,133,
+7413,Electrical line installers and repairers,0.1348,0.05,2,152,133,
+8151,"Fibre preparing, spinning and winding machine operators",0.1343,0.96,1,150,107,
+4223,Telephone switchboard operators,0.1284,0.965,2,144,129,
+3256,Medical assistants,0.1249,0.3,1,160,153,
+5245,Service station attendants,0.1244,0.4295,2,163,144,
+7411,Building and related electricians,0.1244,0.15,1,144,127,
+7233,Agricultural and industrial machinery mechanics and repairers,0.1234,0.6216,8,143,117,
+5243,Door to door salespersons,0.1219,0.94,1,144,125,
+1324,"Supply, distribution and related managers",0.12,0.59,1,140,126,
+7127,Air conditioning and refrigeration mechanics,0.1194,0.3265,2,134,117,
+2611,Lawyers,0.1191,0.035,1,143,127,
+4132,Data entry clerks,0.1188,0.99,1,146,123,
+3341,Office supervisors,0.1187,0.014,1,129,111,
+6122,Poultry producers,0.1149,0.76,2,151,101,
+9411,Fast food preparers,0.1145,0.875,2,141,119,
+5112,Transport conductors,0.1131,0.3895,2,154,128,
+3212,Medical and pathology laboratory technicians,0.1119,0.685,2,153,144,
+2411,Accountants,0.1089,0.9567,3,121,108,
+8172,Wood processing plant operators,0.1076,0.86,1,131,84,
+1345,Education managers,0.1048,0.0073,2,137,127,
+7313,Jewellery and precious-metal workers,0.1031,0.95,1,112,84,
+8331,Bus and tram drivers,0.1026,0.6122,4,151,137,
+1412,Restaurant managers,0.101,0.083,1,140,130,
+9214,Garden and horticultural labourers,0.0992,0.95,1,141,110,
+7224,"Metal polishers, wheel grinders and tool sharpeners",0.0988,0.925,2,109,37,
+9311,Mining and quarrying labourers,0.0975,0.37,1,166,74,
+3355,Police inspectors and detectives,0.0974,0.1722,2,126,113,
+1346,Financial and insurance services branch managers,0.0968,0.1145,2,106,101,
+3339,Business services agents not elsewhere classified,0.0942,0.2977,7,107,90,
+9624,Water and firewood collectors,0.0934,0.85,1,119,96,
+8156,Shoemaking and related machine operators,0.0924,0.97,1,100,57,
+1221,Sales and marketing managers,0.0898,0.0135,2,102,91,
+8111,Miners and quarries,0.0887,0.6957,7,123,51,
+9321,Hand packers,0.087,0.38,1,101,77,
+7114,"Concrete placers, concrete finishers and related workers",0.0864,0.8833,3,97,76,
+8154,"Bleaching, dyeing and fabric cleaning machine operators",0.086,0.97,1,94,39,
+7221,"Blacksmiths, hammer smiths and forging press workers",0.0851,0.93,1,90,56,
+2433,Technical and medical sales professionals (excluding ICT),0.0827,0.1625,2,93,82,
+7532,Garment and related pattern-makers and cutters,0.0798,0.5316,3,84,65,
+1112,Senior government officials,0.0795,0.0593,3,94,80,
+3511,Information and communications technology operations technicians,0.0767,0.78,1,86,81,
+7214,Structural-metal preparers and erectors,0.0763,0.7133,3,71,56,
+8142,Plastic products machine operators,0.073,0.9058,12,75,49,
+2230,Traditional and complementary medicine professionals,0.0705,0.02,1,87,73,
+4321,Stock clerks,0.0701,0.8567,3,89,85,
+9121,Hand launderers and pressers,0.0695,0.81,1,81,66,
+2512,Software developers,0.0688,0.086,2,67,56,
+6210,Forestry and related workers,0.0654,0.792,5,102,69,
+4131,Typists and word processing operators,0.0647,0.81,1,76,71,
+8143,Paper products machine operators,0.0647,0.81,2,71,64,
+7213,Sheet-metal workers,0.0634,0.78,3,72,56,
+6112,Tree and shrub crop growers,0.0632,0.57,1,125,45,
+9122,Vehicle cleaners,0.0631,0.37,1,90,75,
+1311,Agricultural and forestry production managers,0.0625,0.047,1,85,63,
+3343,Administrative and executive secretaries,0.0616,0.68,2,77,70,
+9312,Civil engineering labourers,0.0616,0.88,2,87,70,
+9215,Forestry labourers,0.0615,0.87,1,82,57,
+3132,Incinerator and water treatment plant operators,0.0607,0.5965,4,84,81,
+3123,Construction supervisors,0.0603,0.17,1,67,53,
+8183,"Packing, bottling and labelling machine operators",0.0576,0.98,1,62,48,
+8114,"Cement, stone and other mineral products machine operators",0.0547,0.88,4,73,51,
+1120,Managing directors and chief executives,0.0545,0.0875,2,62,57,
+6222,Inland and coastal waters fishery workers,0.0545,0.7,2,75,27,
+8131,Chemical products plant and machine operators,0.0533,0.8467,3,65,54,
+2142,Civil engineers,0.0529,0.019,1,68,64,
+7223,Metal working machine tool setters and operators,0.0528,0.8709,11,46,34,
+1411,Hotel managers,0.0522,0.0039,1,67,62,
+7115,Carpenters and joiners,0.0519,0.72,1,62,48,
+3434,Chefs,0.0504,0.365,2,60,50,
+8113,Well drillers and borers and related workers,0.0491,0.7717,6,64,56,
+1211,Finance managers,0.0481,0.069,1,52,45,
+7322,Printers,0.0463,0.83,1,52,45,
+7421,Electronics mechanics and servicers,0.0443,0.5361,7,48,41,
+4311,Accounting and bookkeeping clerks,0.044,0.97,2,53,49,
+3112,Civil engineering technicians,0.0437,0.5647,5,52,51,
+7323,Print finishing and binding workers,0.042,0.95,1,37,33,
+3332,Conference and event planners,0.0387,0.037,1,40,34,
+2652,"Musicians, singers and composers",0.038,0.0445,2,44,30,
+7314,Potters and related workers,0.0377,0.4675,2,41,30,
+3411,Police inspectors and detectives,0.0373,0.66,6,42,39,
+2619,Legal professionals not elsewhere classified,0.0361,0.06,1,43,38,
+7132,Spray painters and varnishers,0.0359,0.8,2,41,33,
+2434,Information and communications technology sales professionals,0.0353,0.1097,3,40,34,
+3412,Social work associate professionals,0.0347,0.13,1,49,44,
+8212,Electrical and electronic equipment assemblers,0.0337,0.922,5,31,19,
+6223,Deep-sea fishery workers,0.0318,0.7,2,51,21,
+7123,Plasterers,0.0318,0.75,3,40,29,
+4412,Mail carriers and sorting clerks,0.0316,0.86,5,38,36,
+3431,Photographers,0.0298,0.021,1,28,23,YES
+3259,Health associate professionals not elsewhere classified,0.0292,0.1339,7,34,33,
+4323,Transport clerks,0.028,0.96,1,36,33,
+7534,Upholsterers and related workers,0.0274,0.39,1,38,21,
+9623,Meter readers and vending-machine collectors,0.0272,0.895,2,35,33,
+2250,Veterinarians,0.0263,0.038,1,33,31,
+3211,Medical imaging and therapeutic equipment technicians,0.026,0.2733,3,34,34,
+5230,Cashiers and ticket clerks,0.0258,0.9,2,32,31,
+8343,"Crane, hoist and related plant operators",0.0256,0.6538,5,33,25,
+3521,Broadcasting and audio-visual technicians,0.0253,0.6,5,28,23,YES
+2320,Vocational education teachers,0.0234,0.1344,2,28,28,YES
+1212,Human resource managers,0.022,0.3239,3,21,17,YES
+5246,Food service counter attendants,0.0218,0.93,3,28,24,YES
+4224,Hotel receptionists,0.0215,0.575,2,29,28,YES
+7315,"Glass makers, cutters, grinders and finishers",0.0212,0.8367,3,26,19,YES
+4225,Enquiry clerks,0.0208,0.91,2,23,20,YES
+2431,Advertising and marketing professionals,0.0207,0.324,2,20,19,YES
+3113,Electrical engineering technicians,0.0205,0.825,2,26,22,YES
+9629,Elementary workers not elsewhere classified,0.0205,0.79,5,25,19,YES
+8122,"Metal finishing, plating and coating machine operators",0.0204,0.88,3,25,21,YES
+7319,Handicraft workers not elsewhere classified,0.0198,0.035,1,19,19,YES
+3142,Agricultural technicians,0.0197,0.97,1,34,32,
+3342,Legal secretaries,0.0195,0.98,1,22,22,YES
+3214,Medical and dental prosthetic technicians,0.0194,0.4745,3,24,23,YES
+8312,"Railway brake, signal and switch operators",0.0192,0.563,3,29,27,YES
+3240,Veterinary technicians and assistants,0.0191,0.4445,2,27,25,YES
+8112,Mineral and stone processing plant operators,0.0191,0.89,2,29,20,YES
+4313,Payroll clerks,0.0189,0.97,1,25,23,YES
+7222,Toolmakers and related workers,0.0189,0.7733,6,22,18,YES
+2151,Electrical engineers,0.0182,0.1,1,20,20,YES
+5322,Home-based personal care workers,0.0177,0.402,3,27,26,YES
+8157,Laundry machine operators,0.0177,0.71,1,21,17,YES
+3432,Interior designers and decorators,0.0166,0.1692,3,20,14,YES
+2521,Database designers and administrators,0.0165,0.03,1,17,16,YES
+3352,Government tax and excise officials,0.0164,0.93,1,19,19,YES
+3111,Chemical and physical science technicians,0.0158,0.6967,3,19,19,YES
+2635,Social work and counseling professionals,0.0156,0.0432,8,22,22,YES
+3321,Insurance representatives,0.0154,0.6617,3,18,17,YES
+2144,Mechanical engineers,0.015,0.132,4,15,14,YES
+2262,Pharmacists,0.015,0.012,1,18,16,YES
+2642,Journalists,0.0146,0.0825,2,17,16,YES
+2261,Dentists,0.0145,0.0215,4,19,17,YES
+3323,Buyers,0.0143,0.6433,3,15,11,YES
+3314,"Statistical, mathematical and related associate professionals",0.0141,0.7667,3,17,17,YES
+8141,Rubber products machine operators,0.0141,0.822,5,15,10,YES
+3115,Mechanical engineering technicians,0.014,0.4775,4,16,14,YES
+1349,Professional services managers not elsewhere classified,0.0137,0.25,1,17,15,YES
+2643,"Translators, interpreters and other linguists",0.0136,0.21,2,15,13,YES
+3422,"Sports coaches, instructors and officials",0.0134,0.3743,3,17,14,YES
+5411,Fire-fighters,0.0133,0.0868,2,16,16,YES
+3522,Telecommunications engineering technicians,0.0131,0.84,1,17,16,YES
+1330,Information and communications technology service managers,0.0126,0.035,1,12,10,YES
+2163,Product and garment designers,0.0125,0.029,2,15,10,YES
+4322,Production clerks,0.0121,0.88,1,15,14,YES
+2656,"Announcers on radio, television and other media",0.012,0.2957,3,13,13,YES
+3134,Petroleum and natural gas refining plant operators,0.012,0.825,4,18,17,YES
+3312,Credit and loans officers,0.0118,0.51,2,13,13,YES
+7535,"Pelt dressers, tanners and fell mongers",0.0117,0.41,1,12,9,YES
+2145,Chemical engineers,0.0116,0.017,1,16,14,YES
+2267,Optometrists and ophthalmic opticians,0.0115,0.14,1,14,14,YES
+2413,Financial analysts,0.0115,0.46,3,14,14,YES
+4120,Secretaries (general),0.0113,0.96,1,16,16,YES
+4226,Receptionists (general),0.0112,0.96,1,12,11,YES
+7316,"Sign writers, decorative painters, engravers and etchers",0.0112,0.95,2,14,12,YES
+8181,Glass and ceramics plant operators,0.0111,0.8133,6,12,9,YES
+3131,Power production plant operators,0.0109,0.614,4,12,10,YES
+9612,Refuse sorters,0.0106,0.93,1,9,8,YES
+8121,Metal processing plant operators,0.0102,0.88,5,10,10,YES
+3118,Draughts persons,0.0101,0.513,4,11,11,YES
+3331,Clearing and forwarding agents,0.0101,0.985,2,12,12,YES
+1322,Mining managers,0.01,0.25,1,15,12,YES
+1222,Advertising and public relations managers,0.0098,0.027,2,11,10,YES
+8211,Mechanical machinery assemblers,0.0098,0.805,2,11,10,YES
+3257,Environmental and occupational health inspectors and associates,0.0097,0.5297,4,12,12,YES
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments",0.0095,0.94,1,11,10,YES
+2166,Graphic and multimedia designers,0.0092,0.0485,2,8,7,YES
+4214,Debt-collectors and related workers,0.0091,0.95,1,10,10,YES
+5113,Travel guides,0.0091,0.3477,3,9,9,YES
+3423,Fitness and recreation instructors and program leaders,0.0088,0.0745,4,10,10,YES
+1342,Health services managers,0.0085,0.0073,1,10,10,YES
+2161,Building architects,0.0085,0.018,1,8,8,YES
+2514,Applications programmers,0.0083,0.48,1,8,7,YES
+5249,Sales workers not elsewhere classified,0.0083,0.97,1,9,9,YES
+2153,Telecommunications engineers,0.0081,0.025,1,9,9,YES
+5321,Health care assistants,0.008,0.47,1,12,8,YES
+9412,Kitchen helpers,0.0079,0.85,3,10,10,YES
+2511,Systems analysts,0.0075,0.0107,2,9,9,YES
+3351,Customs and border inspectors,0.0074,0.0608,3,8,7,YES
+3514,Web technicians,0.0072,0.03,1,6,6,YES
+3251,Dental assistants and therapists,0.007,0.595,2,9,9,YES
+1219,Business services and administration managers not elsewhere classified,0.0067,0.355,5,9,8,YES
+6129,Animal producers not elsewhere classified,0.0067,0.76,2,6,4,YES
+7122,Floor layers and tile setters,0.0067,0.82,4,10,10,YES
+7515,Food and beverage tasters and graders,0.0067,0.675,2,10,7,YES
+7521,Wood treaters,0.0067,0.66,2,7,7,YES
+4411,Library clerks,0.0066,0.97,2,8,8,YES
+2622,Librarians and related information professionals,0.0065,0.52,2,6,6,YES
+7113,"Stonemasons, stone cutters, splitters and carvers",0.0065,0.86,2,8,5,YES
+3421,Athletes and sports players,0.0063,0.28,1,7,7,YES
+5311,Child care workers,0.0063,0.08,2,10,10,YES
+4312,"Statistical, finance and insurance clerks",0.0061,0.968,5,8,7,YES
+1312,Aquaculture and fisheries production managers,0.0059,0.047,1,7,3,YES
+3252,Medical records and health information technicians,0.0059,0.91,1,6,6,YES
+8189,Stationary plant and machine operators not elsewhere classified,0.0056,0.9225,4,7,7,YES
+9331,Hand and pedal vehicle drivers,0.0055,0.94,1,5,4,YES
+2651,Visual artists,0.0054,0.0385,2,6,4,YES
+2141,Industrial and production engineers,0.0053,0.029,1,5,3,YES
+4222,Contact centre information clerks,0.0053,0.755,2,7,6,YES
+4221,Travel consultants and clerks,0.0052,0.2613,3,6,6,YES
+3116,Chemical engineering technicians,0.0051,0.24,1,6,6,YES
+7543,Product graders and testers (excluding foods and beverages),0.0051,0.98,1,6,6,YES
+7513,Dairy-products makers,0.0049,0.79,2,5,5,YES
+8344,Lifting truck operators,0.0049,0.4795,2,6,4,YES
+1431,"Sports, recreation and cultural centre managers",0.0046,0.1705,2,6,6,YES
+1213,Policy and planning managers,0.0045,0.25,1,4,4,YES
+2421,Management and organization analysts,0.0044,0.071,2,4,4,YES
+7211,Metal moulders and core makers,0.0042,0.81,2,5,5,YES
+7215,Riggers and cable splicers,0.0042,0.89,1,5,4,YES
+8350,Ships' deck crews and related workers,0.0042,0.725,2,6,5,YES
+7514,"Fruit, vegetable and related preservers",0.004,0.61,1,3,3,YES
+3333,Employment agents and contractors,0.0038,0.97,1,5,5,YES
+7516,Tobacco preparers and tobacco products makers,0.0038,0.7467,3,4,3,YES
+1223,Research and development managers,0.0036,0.0175,2,3,3,YES
+5165,Driving instructors,0.0036,0.13,1,3,3,YES
+8171,Pulp and papermaking plant operators,0.0036,0.74,2,3,3,YES
+2351,Education methods specialists,0.0033,0.0042,1,4,4,YES
+7232,Aircraft engine mechanics and repairers,0.0033,0.3565,2,5,5,YES
+5111,Travel attendants and travel stewards,0.0032,0.3763,3,3,3,YES
+2342,Early childhood educators,0.0031,0.0787,2,5,5,YES
+8219,Assemblers not elsewhere classified,0.0031,0.97,1,4,1,YES
+3135,Metal production process controllers,0.003,0.88,1,3,2,YES
+8182,Steam engine and boiler operators,0.003,0.89,1,3,3,YES
+2269,Health professionals not elsewhere classified,0.0029,0.0116,5,4,4,YES
+3114,Electronics engineering technicians,0.0029,0.84,1,3,3,YES
+3121,Mining supervisors,0.0029,0.17,1,6,6,YES
+3143,Forestry technicians,0.0028,0.42,1,3,3,YES
+3353,Government social benefits officials,0.0028,0.39,2,3,3,YES
+7124,Insulation workers,0.0028,0.735,2,4,3,YES
+2111,Physicists and astronomers,0.0027,0.0705,2,3,3,YES
+2353,Other language teachers,0.0027,0.16,2,4,4,YES
+6123,Apiarists and sericulturists,0.0027,0.76,2,3,2,YES
+2641,Authors and related writers,0.0025,0.3277,3,3,3,YES
+3354,Government licensing officials,0.0025,0.27,2,3,3,YES
+4229,Client information workers not elsewhere classified,0.0024,0.7,1,3,3,YES
+2263,Environmental and occupational health and hygiene professionals,0.0022,0.1075,2,2,2,YES
+5169,Personal services workers not elsewhere classified,0.0022,0.279,4,2,2,YES
+3254,Dispensing opticians,0.0021,0.71,1,2,2,YES
+2612,Judges,0.0018,0.52,2,2,2,YES
+3139,Process control technicians not elsewhere classified,0.0018,0.36,1,2,2,YES
+3311,Securities and finance dealers and brokers,0.0017,0.0455,2,3,3,YES
+4419,Clerical support workers not elsewhere classified,0.0016,0.92,2,2,2,YES
+5329,Personal care workers in health services not elsewhere classified,0.0016,0.578,5,2,2,YES
+5152,Domestic housekeepers,0.0015,0.94,1,2,2,YES
+7121,Roofers,0.0015,0.9,1,2,2,YES
+9611,Garbage and recycling collectors,0.0015,0.4795,2,2,2,YES
+2352,Special needs teachers,0.0014,0.0118,2,1,1,YES
+5132,Bartenders,0.0014,0.77,1,1,1,YES
+8342,Earthmoving and related plant operators,0.0014,0.892,5,3,3,YES
+1344,Social welfare managers,0.0013,0.0067,1,2,2,YES
+5164,Pet groomers and animal care workers,0.0013,0.464,4,1,1,YES
+5413,Prison guards,0.0013,0.3125,2,1,1,YES
+2146,"Mining engineers, metallurgists and related professionals",0.0012,0.0855,4,2,2,YES
+2265,Dieticians and nutritionists,0.001,0.0039,1,2,2,YES
+7119,Building frame and related trades workers not elsewhere classified,0.001,0.5433,3,1,1,YES
+2432,Public relations professionals,0.0009,0.18,1,1,1,YES
+3435,Other artistic and cultural associate professionals,0.0009,0.61,1,1,1,YES
+4227,Survey and market research interviewers,0.0009,0.94,1,1,1,YES
+4416,Personnel clerks,0.0009,0.9,1,1,1,YES
+7311,Precision-instrument makers and repairers,0.0009,0.5583,4,1,1,YES
+7321,Pre-press technicians,0.0009,0.565,2,1,1,YES
+2149,Engineering professionals not elsewhere classified,0.0008,0.034,5,1,1,YES
+2152,Electronics engineers,0.0008,0.1225,2,1,1,YES
+2165,Cartographers and surveyors,0.0008,0.63,2,1,1,YES
+2412,Financial and investment advisers,0.0008,0.405,2,1,1,YES
+2522,Systems administrators,0.0008,0.03,1,1,1,YES
+3153,Aircraft pilots and related associate professionals,0.0008,0.253,3,1,1,YES
+4212,"Bookmakers, croupiers and related gaming workers",0.0008,0.616,5,1,1,YES
+4415,Filing and copying clerks,0.0008,0.945,2,1,1,YES
+5244,Contact centre salespersons,0.0008,0.99,1,1,1,YES
+7542,Shot firers and blasters,0.0008,0.48,1,1,1,YES
+8132,Photographic products machine operators,0.0008,0.99,1,1,1,YES
+1113,Traditional chiefs and heads of village,0.0007,0.015,1,1,1,YES
+2143,Environmental engineers,0.0006,0.018,1,1,1,YES
+2132,"Farming, forestry and fisheries advisers",0.0005,0.0122,3,1,1,YES
+3255,Physiotherapy technicians and assistants,0.0004,0.1927,3,1,1,YES
+3359,Regulatory government associate professionals not elsewhere classified,0.0004,0.94,1,1,1,YES
+5242,Sales demonstrators,0.0004,0.51,1,1,1,YES
+7523,Woodworking-machine tool setters and operators,0.0004,0.97,1,1,1,YES
+2355,Other arts teachers,0.0002,0.13,1,1,1,YES
