@@ -38,7 +38,9 @@ Everything in `output/` is derived data produced by the scripts: extracted and c
 **The PBS Labour Force Survey 2024-25 microdata is not redistributed here.** It is the property of the Pakistan Bureau of Statistics and is published by them directly. Download it from:
 
 - Landing page: <https://www.pbs.gov.pk/labour-force-statistics>
-- The analysis used the Stata release, `LFS-2024-25-STATA.zip`
+- Direct download (Stata release, ~8.8 MB): <https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-STATA.zip>
+
+Note that the PBS page labels this download as a RAR file, but the server delivers a standard ZIP archive (`Content-Type: application/zip`). Extract it with any ZIP tool; you do not need an unrar utility.
 
 Place the unpacked `.dta` file at `microdata/LFS 2024-25.sav web.dta` relative to the repository root. The scripts expect exactly that path. No registration was required at the time of access (September 2025).
 
